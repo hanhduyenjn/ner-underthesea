@@ -1,8 +1,6 @@
 import joblib
 import numpy
-from os.path import join
 from sklearn.preprocessing import MultiLabelBinarizer
-
 from languageflow.experiment import Experiment
 from languageflow.transformer.count import CountVectorizer
 from languageflow.transformer.tfidf import TfidfVectorizer
@@ -19,9 +17,9 @@ class Flow:
 
     >>> from languageflow.flow import Flow
     >>> flow = Flow()
-    >>> flow.data(X, y)
-    >>> flow.transform(TfidfTransformer())
-    >>> model = Model(SGD(), "SGD")
+    >>> flow.data("traint.txt")
+    >>> flow.transform(TaggedTransformer(template))
+    >>> model = Model(CRF(), "CRF")
     >>> flow.add_model(model)
     >>> flow.train()
     """
@@ -42,7 +40,14 @@ class Flow:
         """
         self.X = X
         self.y = y
+        for sentence in sentences:
+            for token in sentence:
+                if len(token) == 4:
+                    token.pop(2)
+                # print(token)
+        
         self.sentences = sentences
+        # print(self.sentences[0])
 
     def transform(self, transformer):
         """
@@ -58,6 +63,7 @@ class Flow:
 
         if isinstance(transformer, TaggedTransformer):
             self.X, self.y = transformer.transform(self.sentences) 
+
         if isinstance(transformer, TfidfVectorizer):
             self.X = transformer.fit_transform(self.X)
         if isinstance(transformer, CountVectorizer):
@@ -96,35 +102,35 @@ class Flow:
                 e.log_folder = self.log_folder
                 e.train()
 
-    def export(self, model_name, export_folder):
-        """
-        Export model and transformers to export_folder
+    # def export(self, model_name, export_folder):
+    #     """
+    #     Export model and transformers to export_folder
 
-        Parameters
-        ----------
-        model_name: string
-            name of model to export
-        export_folder: string
-            folder to store exported model and transformers
-        """
-        for transformer in self.transformers:
-            if isinstance(transformer, MultiLabelBinarizer):
-                joblib.dump(transformer,
-                            join(export_folder, "label.transformer.bin"),
-                            protocol=2)
-            if isinstance(transformer, TfidfVectorizer):
-                joblib.dump(transformer,
-                            join(export_folder, "tfidf.transformer.bin"),
-                            protocol=2)
-            if isinstance(transformer, CountVectorizer):
-                joblib.dump(transformer,
-                            join(export_folder, "count.transformer.bin"),
-                            protocol=2)
-            if isinstance(transformer, NumberRemover):
-                joblib.dump(transformer,
-                            join(export_folder, "number.transformer.bin"),
-                            protocol=2)
-        model = [model for model in self.models if model.name == model_name][0]
-        e = Experiment(self.X, self.y, model.estimator, None)
-        model_filename = join(export_folder, "model.bin")
-        e.export(model_filename)
+    #     Parameters
+    #     ----------
+    #     model_name: string
+    #         name of model to export
+    #     export_folder: string
+    #         folder to store exported model and transformers
+    #     """
+    #     for transformer in self.transformers:
+    #         if isinstance(transformer, MultiLabelBinarizer):
+    #             joblib.dump(transformer,
+    #                         join(export_folder, "label.transformer.bin"),
+    #                         protocol=2)
+    #         if isinstance(transformer, TfidfVectorizer):
+    #             joblib.dump(transformer,
+    #                         join(export_folder, "tfidf.transformer.bin"),
+    #                         protocol=2)
+    #         if isinstance(transformer, CountVectorizer):
+    #             joblib.dump(transformer,
+    #                         join(export_folder, "count.transformer.bin"),
+    #                         protocol=2)
+    #         if isinstance(transformer, NumberRemover):
+    #             joblib.dump(transformer,
+    #                         join(export_folder, "number.transformer.bin"),
+    #                         protocol=2)
+    #     model = [model for model in self.models if model.name == model_name][0]
+    #     e = Experiment(self.X, self.y, model.estimator, None)
+    #     model_filename = join(export_folder, "model.bin")
+    #     e.export(model_filename)

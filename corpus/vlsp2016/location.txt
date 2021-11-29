@@ -1,0 +1,4061 @@
+phố	N	B-LOC
+Phú Hà	Np	I-LOC
+-	CH	O
+phường	N	B-LOC
+Phong Châu	Np	I-LOC
+-	CH	O
+thị xã	N	B-LOC
+Phú Thọ	Np	I-LOC
+-	CH	O
+Phú Thọ	Np	B-LOC
+
+ship	V	O
+Quảng Ngãi	Np	B-LOC
+bao nhiêu	P	O
+ạ	T	O
+.	CH	O
+
+em	N	O
+ở	E	O
+TPHCM	Np	B-LOC
+
+268/9	M	B-LOC
+,	CH	O
+Vĩnh Viễn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+
+Tuyền	Np	B-PER
+,	CH	O
+341-343	M	B-LOC
+,	CH	O
+Điện Biên Phủ	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+15	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+,	CH	O
+Hồ Chí Minh	Np	I-LOC
+
+24B	M	O
+,	CH	O
+Nguyễn Gia Thiều	Np	B-LOC
+,	CH	O
+Vũng Tàu	Np	B-LOC
+
+mình	P	O
+ship	V	O
+về	E	O
+Phan Đăng Lưu	Np	B-LOC
+,	CH	O
+Phú Nhuận	Np	B-LOC
+thì	C	O
+bao nhiêu	P	O
+?	CH	O
+
+em	N	O
+1m60	M	O
+55kg	M	O
+có	V	O
+size	N	O
+không	R	O
+shop	V	O
+
+Size	M	O
+M	Np	O
+,	CH	O
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+An Đức	V	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Ba Tri	N	I-LOC
+,	CH	O
+tỉnh	N	O
+Bến Tre	Np	O
+
+cho	E	O
+mình	P	O
+1	M	O
+bộ	Nc	O
+size	N	O
+S	Np	O
+đến	V	O
+trường	N	B-LOC
+tiểu học	N	I-LOC
+Đồng Tâm	Np	I-LOC
+,	CH	O
+ngõ	N	B-LOC
+128	M	I-LOC
+,	CH	O
+Đại La	Np	B-LOC
+,	CH	O
+Hai Bà Trưng	N	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+12/95	M	B-LOC
+,	CH	O
+Cam Lộ	Np	B-LOC
+,	CH	O
+Hùng Vương	Np	B-LOC
+,	CH	I-LOC
+Hồng Bàng	Np	B-LOC
+,	CH	O
+Hải Phòng	Np	B-LOC
+
+Trúc	Np	B-PER
+Anh	Np	I-PER
+,	CH	O
+lò	N	B-LOC
+bánh tráng	N	I-LOC
+Năm Tuấn	Np	I-LOC
+,	CH	O
+Phước Hiệp	Np	B-LOC
+,	CH	O
+Gia Bình	Np	B-LOC
+,	CH	B-LOC
+Trảng Bàng	Np	B-LOC
+,	CH	O
+Tây Ninh	Np	B-LOC
+.	CH	O
+
+ấp	N	B-LOC
+Ba Đình	Np	I-LOC
+.	CH	O
+vịnh	N	B-LOC
+Lộc Anh	Np	I-LOC
+.	CH	O
+Hồng Dân	Np	B-LOC
+.	CH	O
+Bạc Liêu	Np	B-LOC
+
+2/20/120	M	B-LOC
+Điện Biên Phủ	Np	B-LOC
+
+Spa	N	B-LOC
+Bình Yên	Np	I-LOC
+,	CH	O
+thôn	N	B-LOC
+Tân An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Hiền Ninh	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Sóc Sơn	Np	I-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+
+An Hiệp	Np	B-LOC
+-	CH	O
+Châu Thành	Np	B-LOC
+-	CH	O
+Bến Tre	Np	B-LOC
+
+Nguyễn Trang	Np	B-PER
+,	CH	O
+khu	N	B-LOC
+5	M	I-LOC
+,	CH	O
+Vân Phú	Np	B-LOC
+,	CH	I-LOC
+Việt Trì	Np	B-LOC
+,	CH	O
+Phú Thọ	Np	B-LOC
+
+ship	N	O
+em	N	O
+size	N	O
+S	Np	O
+tới	V	O
+địa chỉ	N	O
+sân	N	B-LOC
+bóng	N	I-LOC
+Ban Mai	Np	I-LOC
+-	CH	O
+Ngũ Lão	Ny	B-LOC
+-	CH	O
+Thủy Nguyên	Ny	B-LOC
+-	CH	O
+Hải Phòng	Np	B-LOC
+.	CH	O
+
+58/2A	M	B-LOC
+,	CH	O
+Phan Đình Phùng	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bến Tre	Np	I-LOC
+
+82/25	M	O
+Lý Thường Kiệt	Np	O
+,	CH	O
+phường	N	B-LOC
+7	M	I-LOC
+,	CH	O
+Gò Vấp	Np	B-LOC
+ạ	T	O
+
+chị	Nc	O
+ơi	I	O
+chị	Nc	O
+thu hồi	V	O
+ở	E	O
+địa chỉ	N	B-LOC
+132	M	I-LOC
+Hàm Nghi	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bến Thành	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+giúp	V	O
+ạ	T	O
+
+ấp	N	B-LOC
+Thị 1	N	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Mỹ Luôn	Np	I-LOC
+,	CH	O
+Chợ Mới	Np	B-LOC
+,	CH	O
+An Giang	Np	B-LOC
+
+Nguyễn Thị Hạt	Np	B-PER
+,	CH	O
+khu	N	B-LOC
+Bồ Sơn	Np	I-LOC
+-	CH	O
+Võ Cường	Ny	B-LOC
+-	CH	O
+thành phố	N	B-LOC
+Bắc Ninh	Np	I-LOC
+
+101	M	O
+Đông Bình	Np	B-PER
+-	CH	O
+Bùi Chu	Ny	O
+-	CH	O
+Bắc Sơn	Ny	O
+-	CH	O
+Trảng Bom	Ny	O
+-	CH	O
+Đồng Nai	Np	B-LOC
+
+shop	N	O
+ship	V	O
+giúp	V	O
+mình	P	O
+về	V	O
+địa chỉ	N	B-LOC
+thôn	N	I-LOC
+Đông Anh	Np	I-LOC
+xã	N	B-LOC
+Yên Khang	Np	I-LOC
+huyện	N	B-LOC
+Ý Yên	Np	I-LOC
+tỉnh	N	B-LOC
+Nam Định	Np	I-LOC
+nhé	T	O
+
+shop	V	O
+cho	E	O
+mình	P	O
+set	V	O
+này	P	O
+size	N	O
+L	Np	O
+đến	E	O
+toà	N	B-LOC
+Vòng	Np	I-LOC
+1	M	I-LOC
+,	CH	O
+Victoria	Np	B-LOC
+,	CH	O
+khu	N	O
+đô thị	N	B-LOC
+Văn Phú	Np	I-LOC
+-	CH	O
+Hà Đông	Ny	B-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+nhé	T	O
+
+xóm	N	B-LOC
+1	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Minh Phú	Np	I-LOC
+(	CH	O
+Đồng Phú	Np	B-LOC
+)	CH	O
+Đông Hưng	Np	B-LOC
+-	CH	O
+Thái Bình	Np	B-LOC
+
+số	N	B-LOC
+1	M	I-LOC
+Lương Yên	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Bạch Đằng	Np	I-LOC
+,	CH	O
+Hai Bà Trưng	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+14/9d	M	B-LOC
+đường	N	B-LOC
+Nguyễn Văn Quỳ	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Thuận	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+
+Tuy Hoà	Np	B-LOC
+,	CH	O
+Phú Yên	Np	I-LOC
+
+đường	N	B-LOC
+Yết Kiêu	Np	I-LOC
+
+địa chỉ	N	O
+khu phố	N	B-LOC
+6	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Đông	Np	I-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+151	M	I-LOC
+
+mình	P	O
+ở	E	O
+nhà văn hoá	N	B-LOC
+Cao Xá	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đức Thượng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Hoài Đức	Np	I-LOC
+.	CH	O
+thành phố	N	B-LOC
+Hà Nội	Np	I-LOC
+
+Nguyễn Thị Hà Ly	Np	B-PER
+,	CH	O
+288	M	B-LOC
+Hùng Vương	Np	I-LOC
+,	CH	O
+Ngãi Giao	Np	B-LOC
+,	CH	B-LOC
+Châu Đức	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+
+326	N	B-LOC
+Nguyễn Huệ	Np	B-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Đăk Đó	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đăk Đó	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Gia Lai	Np	I-LOC
+
+phường	N	B-LOC
+7	M	I-LOC
+
+627	N	B-LOC
+Hoàng Sa	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+3	M	I-LOC
+
+mình	P	O
+ở	E	O
+Hà Nội	Np	B-LOC
+ạ	T	O
+
+thôn	N	B-LOC
+Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Các Sơn	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Nghi Sơn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Thanh Hoá	Np	I-LOC
+,	CH	O
+số	N	O
+điện thoại	N	O
+
+phí	N	O
+ship	V	O
+về	E	O
+thị xã	N	B-LOC
+Nghi Sơn	Np	I-LOC
+bao nhiêu	V	O
+ạ	T	O
+
+địa chỉ	N	O
+220	M	B-LOC
+Giếng Đồn	Np	I-LOC
+,	CH	O
+Trần Hưng Đạo	Np	B-LOC
+,	CH	O
+Hạ Long	Np	B-LOC
+,	CH	O
+Quảng Ninh	Np	B-LOC
+
+ở	E	O
+Ngãi Giao	Np	B-LOC
+,	CH	B-LOC
+Châu Đức	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+
+129/33	M	B-LOC
+đường	N	B-LOC
+Trần Vĩnh Kiết	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+An Bình	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+Cần Thơ	Np	B-LOC
+
+ấp	N	B-LOC
+Mỹ Thạnh Anh	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Tiên	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cai Lậy	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tiền Giang	Np	I-LOC
+
+Hoàng Mai	N	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+thì	C	O
+ship	V	O
+khoảng	A	O
+bao lâu	P	O
+ạ	T	O
+
+tỉnh	N	B-LOC
+Long An	Np	I-LOC
+chị	Nc	O
+
+mà	C	O
+em	N	O
+ở	V	O
+trên	E	O
+Long An	Np	B-LOC
+nhen	V	O
+chị	Nc	O
+.	CH	O
+Mộc Hoa	Np	B-PER
+ạ	T	O
+
+Đá Trắng	Np	B-LOC
+,	CH	O
+Cầu Bà	Np	B-LOC
+,	CH	O
+Khánh Vĩnh	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+địa chỉ	N	O
+167	M	B-LOC
+Trần Quí Cáp	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Tam Kỳ	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Quảng Nam	Np	I-LOC
+.	CH	O
+số	N	O
+điện thoại	N	O
+
+dạ	N	O
+ship	V	O
+tới	E	O
+50/2B	M	B-LOC
+tổ	N	B-LOC
+6	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+Lê Thị Út	Np	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+Chiêu Liêu	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Đông Hiệp	Np	I-LOC
+,	CH	O
+Dĩ An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+nha	M	O
+
+em	N	O
+ở	E	O
+Chiêu Liêu	Np	B-LOC
+,	CH	O
+Dĩ An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+số	N	B-LOC
+43	M	I-LOC
+Lê Duẩn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+1	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bạc Liêu	Np	I-LOC
+
+ẩm thực	N	O
+miền Tây	N	B-LOC
+,	CH	O
+số	N	B-LOC
+43	M	I-LOC
+Lê Duẩn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+1	M	I-LOC
+
+minh	N	O
+ở	E	O
+Phước Long	Np	B-LOC
+,	CH	O
+giờ	N	O
+đặt	V	O
+mấy	L	O
+ngày	N	O
+có	V	O
+
+phường	N	B-LOC
+Thanh Lương	Np	I-LOC
+,	CH	O
+Hai Bà Trưng	M	B-LOC
+
+vậy	P	O
+ship	V	O
+cho	E	O
+mình	P	O
+về	E	O
+14/333	M	B-LOC
+Nguyễn Khoái	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+49	N	B-LOC
+Hà Thanh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Vạn Thắng	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Nha Trang	Np	I-LOC
+
+Trần Thị Kim Quyên	Np	B-PER
+.	CH	O
+số	N	O
+nhà	N	B-LOC
+18	M	I-LOC
+,	CH	O
+ấp	N	B-LOC
+1	M	I-LOC
+Tân Hào	Np	B-LOC
+,	CH	O
+Giồng Trôm	Np	B-LOC
+,	CH	O
+Bến Tre	Np	B-LOC
+
+Nguyễn Thu Phương	Np	B-PER
+,	CH	O
+29	M	B-LOC
+Liễu Giai	Np	B-LOC
+,	CH	O
+Ba Đình	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+268/2/11/1	M	O
+Trần Phú	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+5	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Vũng Tàu	Np	I-LOC
+
+111	M	B-LOC
+-	CH	O
+tổ	N	B-LOC
+04	M	I-LOC
+-	CH	O
+Vĩnh Thạnh B	Np	B-LOC
+-	CH	O
+Vĩnh Hoà	Ny	B-LOC
+-	CH	O
+Tân Châu	Ny	B-LOC
+-	CH	O
+An Giang	Ny	B-LOC
+. Huỳnh Thắm	M	B-PER
+
+tiệm	N	B-LOC
+Internet	FW	I-LOC
+767	M	I-LOC
+gaming	N	I-LOC
+,	CH	O
+188E	M	B-LOC
+,	CH	O
+ấp	N	B-LOC
+Sông Mây	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bắc Sơn	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Trảng Bom	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đồng Nai	Np	I-LOC
+
+ấp	N	B-LOC
+Mỹ Lược	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thiện Trung	Np	I-LOC
+,	CH	O
+Cái Bè	Np	B-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+
+ấp	N	B-LOC
+Tân Hoà	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Hoà Bình	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Trà Ôn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Vĩnh Long	Np	I-LOC
+
+khu phố	N	B-LOC
+14	M	I-LOC
+.	CH	O
+gần	A	O
+đồn	N	B-LOC
+công an	N	I-LOC
+Mũi Né	Np	I-LOC
+
+số	N	O
+nhà	N	B-LOC
+134	M	I-LOC
+,	CH	O
+buôn	N	B-LOC
+Kotam	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Eatu	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Buôn Mê Thuột	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đăk Lăk	Np	I-LOC
+
+số	N	O
+nhà	N	B-LOC
+32	M	I-LOC
+đường	N	B-LOC
+NB11	Np	I-LOC
+,	CH	O
+Mỹ Phước 2	Np	B-LOC
+,	CH	O
+Bến Cát	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+.	CH	O
+số	N	O
+điện thoại	N	O
+
+128	M	B-LOC
+Tô Hiến Thành	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+15	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+
+tiệm	N	B-LOC
+thuốc tây	N	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bình An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Lộc Vĩnh	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Phú Lộc	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Thừa Thiên Huế	Np	I-LOC
+
+96/7	M	B-LOC
+đường	N	B-LOC
+số	N	I-LOC
+1	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Gò Vấp	Np	I-LOC
+
+bida	N	B-LOC
+779	M	I-LOC
+,	CH	O
+Thái	Np	B-PER
+Sinh Hạnh	Np	I-PER
+,	CH	O
+phường	N	B-LOC
+9	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+
+khu phố	N	B-LOC
+Bầu Kê	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đông Phú	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Phước	Np	I-LOC
+
+ấp	N	B-LOC
+Khương Ninh	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Bình	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Gò Công Tây	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tiền Giang	Np	I-LOC
+
+289A	M	B-LOC
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình Tâm	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Tân An	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Long An	Np	I-LOC
+
+phường	N	B-LOC
+Thượng Lí	Np	I-LOC
+đó	P	O
+ạ	T	O
+
+bây giờ	P	O
+06-30	M	B-LOC
+Vinhomes	Np	B-LOC
+Thượng Lý	Np	I-LOC
+-	CH	O
+Hồng Bàng	Ny	B-LOC
+-	CH	O
+Hải Phòng	Np	B-LOC
+
+phòng khám	N	B-LOC
+đa khoa	N	I-LOC
+Kiều Linh	Np	I-LOC
+
+350/26	M	B-LOC
+Huỳnh Tấn Phát	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bình Thuận	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+
+113/18/8	M	B-LOC
+Trần Văn Đang	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+9	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+3	M	I-LOC
+
+toà nhà	N	B-LOC
+B1A	N	I-LOC
+chung cư	N	B-LOC
+Xã Hội	Np	I-LOC
+,	CH	O
+khu công nghiệp	N	B-LOC
+Hoà Khánh Bắc	Np	I-LOC
+,	CH	O
+Liên Chiểu	Np	B-LOC
+,	CH	O
+Đà Nẵng	Np	B-LOC
+
+Hạ	Np	B-PER
+Cúc	Np	I-PER
+,	CH	O
+văn phòng	N	B-LOC
+tuyển dụng	N	I-LOC
+SHT Vina Đa Cấu	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Nam Sơn	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bắc Ninh	Np	I-LOC
+
+giao	V	O
+cho	E	O
+mình	P	O
+tới	E	O
+địa chỉ	N	O
+46	M	B-LOC
+Hùng Vương	Np	B-LOC
+,	CH	O
+Ngãi Giao	Np	B-LOC
+,	CH	O
+Châu Đức	Np	B-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+nhé	T	O
+shop	M	O
+
+khu phố	N	B-LOC
+Phú Trường	Np	I-LOC
+,	CH	O
+công ty	N	B-LOC
+may	V	I-LOC
+Phú Long	Np	I-LOC
+,	CH	O
+Hàm Thuận Bắc	Np	B-LOC
+,	CH	O
+Bình Thuận	Np	B-LOC
+
+tổ	N	B-LOC
+dân phố	N	I-LOC
+9	M	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Chư Ty	Np	I-LOC
+,	CH	B-LOC
+Đức Cơ	Np	I-LOC
+,	CH	B-LOC
+Gia Lai	Np	I-LOC
+
+98/15	M	B-LOC
+Ung Văn Khiêm	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+25	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+ạ	T	O
+
+143	M	B-LOC
+Quán Sứ	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+11	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+11	M	I-LOC
+
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+Long An	Np	B-LOC
+,	CH	O
+Long Thành	Np	B-LOC
+,	CH	O
+Đồng Nai	Np	B-LOC
+
+Cao Thị Thu Nga	Np	B-PER
+,	CH	O
+trường	N	B-LOC
+mẫu giáo	N	I-LOC
+Bình Đông	Np	I-LOC
+,	CH	O
+ấp	N	B-LOC
+Thừa Trung	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thừa Đức	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Bình Đại	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bến Tre	Np	I-LOC
+
+ấp	N	B-LOC
+8	M	I-LOC
+Sáng	N	B-LOC
+,	CH	O
+xã	N	B-LOC
+Đông Hoà	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+An Minh	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Kiên Giang	Np	I-LOC
+
+bưu điện	N	B-LOC
+Rồi Chài	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Phú Hội	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đức Trọng	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Lâm Đồng	Np	I-LOC
+
+bạn	N	O
+ơi	I	O
+.	CH	O
+giao	V	O
+đến	E	O
+hẻm	N	B-LOC
+tổ	N	I-LOC
+8	M	I-LOC
+,	CH	O
+khu vực	N	B-LOC
+5	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+Nguyễn Văn Linh	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Hưng Lợi	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+nhe	M	O
+
+ấp	N	B-LOC
+Cái Hàng	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Trần Thới	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Cà Mau	Np	I-LOC
+
+em	N	O
+đón	V	O
+ngay	T	O
+chỗ	N	O
+trường	N	B-LOC
+Nghĩa Hiệp	Np	I-LOC
+cũ	A	O
+luôn	R	O
+á	V	O
+
+kêu	V	O
+shipper	N	O
+chạy	V	O
+tới	E	O
+đầu	N	B-LOC
+lộ	N	I-LOC
+Phú Mỹ	Np	I-LOC
+
+bưu điện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Cà Mau	Np	I-LOC
+
+Diamond Plaza	Np	B-LOC
+,	CH	O
+34	M	B-LOC
+Lê Duẩn	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+
+tổ	N	B-LOC
+4	M	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+8	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Uyên Hưng	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Tân Uyên	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Dương	Np	I-LOC
+
+khu	N	B-LOC
+công nghiệp	N	I-LOC
+Tân Hương	Np	I-LOC
+
+06A	M	B-LOC
+Hoàng Sơn	Np	B-LOC
+,	CH	B-LOC
+Vũng Đình	Np	B-LOC
+,	CH	O
+Vĩnh Ngọc	Np	B-LOC
+,	CH	B-LOC
+Nha Trang	Np	B-LOC
+
+tỉnh lộ	N	B-LOC
+328	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Phước Thuận	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Xuyên Mộc	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bà Rịa	Np	I-LOC
+-	CH	O
+Vũng Tàu	Np	B-LOC
+
+đường	N	B-LOC
+181	M	I-LOC
+,	CH	O
+Nguyễn Thị Minh Khai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Hoà	Np	I-LOC
+,	CH	O
+Thủ Dầu Một	Np	I-LOC
+
+dạ	V	O
+số	N	O
+điện thoại	N	O
+là	V	O
+địa chỉ	N	B-LOC
+001/5A	M	I-LOC
+xã	N	B-LOC
+Tân Hưng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Ba Tri	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bến Tre	Np	I-LOC
+
+cho	E	O
+em	N	O
+tới	E	O
+chung cư	N	B-LOC
+Hoàng Văn Thụ	Np	I-LOC
+,	CH	O
+đường	N	B-LOC
+Xuân Thủy	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Quy Nhơn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Định	Np	I-LOC
+.	CH	O
+1	M	O
+bộ	Nc	O
+size	N	O
+M	Np	O
+ạ	T	O
+
+gửi	V	O
+về	E	O
+địa chỉ	N	B-LOC
+39/1	M	I-LOC
+Lê Văn Chí	Np	B-LOC
+,	CH	O
+Linh Trung	Np	B-LOC
+,	CH	B-LOC
+Thủ Đức	Np	I-LOC
+
+ấp	N	B-LOC
+Bình Tân	Np	I-LOC
+,	CH	O
+chợ	N	B-LOC
+Bình Châu	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Xuyên Mộc	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+
+dạ	N	O
+địa chỉ	N	O
+nhà	N	O
+em	N	O
+là	V	O
+1650	M	B-LOC
+quốc lộ	N	B-LOC
+1A	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Thới An	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+12	M	I-LOC
+ạ	T	O
+
+địa chỉ	N	O
+Bá Thiện 2	Np	B-LOC
+,	CH	O
+cây xăng	N	B-LOC
+Văn Cương	Np	I-LOC
+Ngũ Hồ	Np	I-LOC
+,	CH	O
+Thiện Kế	Np	B-LOC
+,	CH	O
+Bình Xuyên	Np	I-LOC
+,	CH	O
+Vĩnh Phúc	Np	B-LOC
+ạ	T	O
+
+171/143	M	B-LOC
+An Bình	Np	B-LOC
+,	CH	B-LOC
+Dĩ An	Np	I-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+Thủ Đức	N	B-LOC
+chị	Nc	O
+
+1058	M	B-LOC
+Nguyễn Văn Linh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Phong	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+(	CH	O
+Vivo City	Np	B-LOC
+)	CH	O
+
+373	M	B-LOC
+Lý Bôn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Kỳ Ba To	Np	I-LOC
+,	CH	O
+Thái Bình	Np	B-LOC
+
+328	M	B-LOC
+Phan Đình Phùng	Np	B-LOC
+-	CH	O
+Bắc Lý	Ny	B-LOC
+-	CH	O
+Đồng Hới	Ny	B-LOC
+-	CH	O
+Quảng Bình	Np	B-LOC
+
+81A	M	B-LOC
+đường	N	B-LOC
+339	M	I-LOC
+,	CH	O
+Phước Long B	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+9	M	I-LOC
+
+ở	E	O
+Sài Gòn	Np	B-LOC
+bao giờ	P	O
+nhận	V	O
+được	R	O
+à	T	O
+
+được	V	O
+chợ	N	B-LOC
+Mao Dộc	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Mao Quế	Np	I-LOC
+,	CH	O
+Bắc Ninh	Np	B-LOC
+ạ	T	O
+
+số	N	O
+điện thoại	N	O
+,	CH	O
+địa chỉ	N	O
+35	M	B-LOC
+Hoàng Quốc Việt	Np	B-LOC
+.	CH	O
+phường	N	B-LOC
+An Bình	Np	I-LOC
+.	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+Đà Nẵng	Np	B-LOC
+
+Trần Thị Thu	Np	B-PER
+,	CH	O
+số	N	B-LOC
+2	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+số	N	I-LOC
+9	M	I-LOC
+,	CH	O
+khu	N	B-LOC
+dân cư	N	I-LOC
+Hồng Phát A	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+An Bình	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+Trạch Hữu	Np	B-PER
+.	CH	O
+Phong Thu	Np	B-LOC
+.	CH	O
+Phong Điền	Np	B-LOC
+.	CH	O
+thị trấn	N	B-LOC
+Huế	Np	I-LOC
+
+địa chỉ	N	O
+,	CH	O
+khu phố	N	B-LOC
+3	M	I-LOC
+,	CH	O
+Mỹ Phước 2	Np	B-LOC
+,	CH	O
+đường	N	B-LOC
+XC1A	Np	I-LOC
+,	CH	O
+Bến Cát	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+,	CH	O
+tiệm	N	B-LOC
+tóc	N	I-LOC
+Thùy Linh	Np	I-LOC
+
+đội	N	B-LOC
+Ba Thâm Khê	Np	I-LOC
+,	CH	O
+Hải Khê	Np	B-LOC
+,	CH	O
+Hải Lăng	Np	B-LOC
+,	CH	O
+Quảng Trị	Np	B-LOC
+
+phường	N	B-LOC
+Nguyễn Văn Cừ	Np	I-LOC
+ạ	T	O
+
+được	R	O
+kiểm	V	O
+hàng	N	O
+trước	E	O
+khi	N	O
+nhận	V	O
+đúng	A	O
+không	R	O
+ạ	I	O
+,	CH	O
+76/6	M	B-LOC
+Tô Hiến Thành	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Quy Nhơn	Np	I-LOC
+ạ	T	O
+
+mình	P	O
+lấy	V	O
+size	N	O
+S	Np	O
+nha	I	O
+,	CH	O
+gửi	V	O
+xóm	N	B-LOC
+9	M	I-LOC
+,	CH	O
+Sông Khoai 2	Np	B-LOC
+,	CH	O
+Quảng Yên	Np	B-LOC
+.	CH	O
+
+Mỹ	Np	B-PER
+Phương	Np	I-PER
+.	CH	O
+thôn	N	B-LOC
+6	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đức Liễu	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Bù Đăng	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Phước	Np	I-LOC
+
+1f/6	M	B-LOC
+khu phố	N	B-LOC
+Đồng An 1	Np	I-LOC
+,	CH	O
+Bình Hoà	Np	B-LOC
+,	CH	O
+Thuận An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+mình	P	O
+ở	E	O
+Bình Dương	Np	B-LOC
+thì	C	O
+khi	N	O
+nào	P	O
+nhận	V	O
+được	R	O
+hàng	N	O
+?	CH	O
+
+thôn	N	B-LOC
+Hòa Quảng	N	I-LOC
+,	CH	O
+xã	N	B-LOC
+Tân Mộc	Np	I-LOC
+,	CH	O
+Lục Ngân	Np	B-LOC
+,	CH	O
+Bắc Giang	Np	B-LOC
+
+ship	N	O
+bưu điện	N	O
+à	T	O
+
+chị	Nc	O
+ship	V	O
+cho	E	O
+em	N	O
+ở	E	O
+phía	N	B-LOC
+sau	N	I-LOC
+trường	N	I-LOC
+trung học phổ thông	N	I-LOC
+Nguyễn Đáng	Np	I-LOC
+
+vậy	P	O
+nhờ	V	O
+bạn	N	O
+ship	V	O
+về	E	O
+địa chỉ	N	O
+Thanh Long	Np	B-LOC
+Cát Tường	Np	I-LOC
+(	CH	O
+212	M	B-LOC
+quốc lộ	N	B-LOC
+50	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đạo Thạnh	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+
+từ	E	O
+Hồ Chí Minh	Np	B-LOC
+,	CH	O
+địa chỉ	N	O
+shop	V	O
+giao	V	O
+về	E	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+thì	C	O
+bao lâu	P	O
+mình	P	O
+nhận	V	O
+được	R	O
+
+địa chỉ	N	O
+khu công nghiệp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+trong	E	O
+khu	N	B-LOC
+nhà xưởng	N	I-LOC
+Nhật Bản	Np	I-LOC
+nha	V	O
+chị	Nc	O
+tên	N	O
+công ty	N	O
+em	N	O
+làm	V	O
+là	V	O
+công ty	N	B-LOC
+trách nhiệm	N	I-LOC
+hữu hạn	N	I-LOC
+sản xuất	V	I-LOC
+sản phẩm	N	I-LOC
+kim loại	N	I-LOC
+Bu	Np	I-LOC
+Zhou	Np	I-LOC
+Việt Nam	Np	B-LOC
+
+chị	Nc	O
+giao	V	O
+địa chỉ	N	O
+này	P	O
+cho	E	O
+em	N	O
+nha	T	O
+chị	Nc	O
+trong	E	O
+khu	N	B-LOC
+nhà xưởng	N	I-LOC
+Nhật Bản	Np	I-LOC
+á	V	O
+chị	Nc	O
+
+36A	M	O
+Xô Viết Nghệ Tĩnh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+19	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+
+54	M	B-LOC
+Trường Sa	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+17	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+
+số	N	O
+điện thoại	N	O
+,	CH	O
+địa chỉ	N	O
+khách sạn	N	B-LOC
+New World	Np	I-LOC
+,	CH	O
+76	M	B-LOC
+Lê Lai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Bến Thành	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+(	CH	O
+cổng	N	B-LOC
+sau	N	I-LOC
+Nguyễn Thị Nghĩa	Np	I-LOC
+)	CH	O
+
+công ty	N	B-LOC
+Hồng Tuấn	Np	I-LOC
+Vượng Phát	Np	I-LOC
+,	CH	O
+503A	M	B-LOC
+Trần Hưng Đạo	Np	B-LOC
+,	CH	O
+Bình Đức	Np	B-LOC
+,	CH	O
+Long Xuyên	Np	B-LOC
+.	CH	O
+
+địa chỉ	N	O
+ấp	N	B-LOC
+Bình Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình An	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Kiên Lương	Np	I-LOC
+,	CH	O
+Kiên Giang	Np	B-LOC
+.	CH	O
+số	N	O
+điện thoại	N	O
+.	CH	O
+
+địa chỉ	N	O
+30/9	M	B-LOC
+Phạm Phú Thứ	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+3	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+6	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+
+địa chỉ	N	O
+ấp	N	B-LOC
+Bửu Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Điền Đông	Np	I-LOC
+,	CH	O
+Đông Hải	Np	B-LOC
+,	CH	O
+Bạc Liêu	Np	B-LOC
+
+chỉ	R	O
+cần	V	O
+đến	V	O
+xưởng	N	B-LOC
+tôm	N	I-LOC
+Thanh Phu	Np	I-LOC
+ở	E	O
+cống	N	B-LOC
+Cái	Np	I-LOC
+Cùng	Np	I-LOC
+là	V	O
+được	V	O
+
+77/27	M	B-LOC
+Hòa Long A	Np	B-LOC
+,	CH	B-LOC
+Thới Hòa	Np	I-LOC
+,	CH	O
+Ô Môn	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+địa chỉ	N	O
+,	CH	O
+chợ	N	B-LOC
+Lý Phục Man	Np	I-LOC
+,	CH	O
+đường	N	B-LOC
+số	N	I-LOC
+2	M	I-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+19	M	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+3	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bình Thuận	Np	I-LOC
+,	CH	O
+quận	N	O
+7	M	O
+
+địa chỉ	N	O
+lô	N	B-LOC
+17	M	I-LOC
+,	CH	O
+dịch vụ	N	B-LOC
+8	M	I-LOC
+,	CH	O
+Tây Nam	Np	B-LOC
+,	CH	O
+Linh Đàm	Np	B-LOC
+,	CH	O
+Hoàng Mai	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+phường	N	B-LOC
+Vĩnh Thành	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Rạch Giá	Np	I-LOC
+,	CH	B-LOC
+Kiên Giang	Np	I-LOC
+
+20/65	M	B-LOC
+Nguyễn Văn Kiến	Np	B-LOC
+
+địa chỉ	N	O
+xóm	N	B-LOC
+Nội	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Nội Hoàng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Yên Dũng	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bắc Giang	Np	I-LOC
+
+12	M	B-LOC
+Trương Văn Của	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Nguyễn Văn Cừ	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Quy Nhơn	Np	I-LOC
+
+số	N	B-LOC
+nhà	N	I-LOC
+11	M	I-LOC
+,	CH	O
+tổ	N	B-LOC
+3	M	I-LOC
+,	CH	O
+ấp	N	B-LOC
+Thanh Bình	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Lộc An	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Long Thành	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đồng Nai	Np	I-LOC
+
+ok	N	O
+.	CH	O
+Đặng Thị Kim Loan	Np	B-PER
+,	CH	O
+số	N	B-LOC
+37	M	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Lộ	N	I-LOC
+14	M	I-LOC
+,	CH	O
+ấp	N	B-LOC
+Chợ Cũ	Np	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Mỹ Xuyên	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Mỹ Xuyên	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Sóc Trăng	Np	I-LOC
+
+Thủy Tiên	Np	B-PER
+,	CH	O
+01-03	M	B-LOC
+Nguyễn Sơn Hà	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Hòa Cường Bắc	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Hải Châu	Np	I-LOC
+,	CH	O
+Đà Nẵng	Np	B-LOC
+
+602	M	B-LOC
+Phạm Văn Đồng	Np	I-LOC
+,	CH	O
+hiệp	N	B-LOC
+Bình Chánh	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Thủ Đức	Np	I-LOC
+ạ	T	O
+
+em	N	O
+ở	E	O
+ấp	N	B-LOC
+Đài An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thới An Hội	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Kế Sách	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Sóc Trăng	Np	I-LOC
+
+28	M	B-LOC
+tổ	N	B-LOC
+7	M	I-LOC
+khu phố	N	B-LOC
+6	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Long Bình	Np	I-LOC
+,	CH	O
+Biên Hòa	Np	B-LOC
+,	CH	O
+Đồng Nai	Np	B-LOC
+
+phường	N	B-LOC
+Vĩnh Nguồn	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Châu Đốc	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+An Giang	Np	I-LOC
+
+Thu	Np	B-PER
+Thảo	Np	I-PER
+,	CH	O
+bờ	N	B-LOC
+hồ	N	I-LOC
+Biconsi	Np	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+Tân Thắng	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Bình	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Dĩ An	Np	I-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+261	M	B-LOC
+Văn Lâm	Np	B-LOC
+,	CH	O
+Hàm Mỹ	Np	B-LOC
+,	CH	O
+Hàm Thụân Nam	Np	B-LOC
+
+em	N	O
+là	V	O
+sinh viên	N	O
+,	CH	O
+em	N	O
+ở	E	O
+ký túc xá	N	B-LOC
+trường	N	I-LOC
+Cao đẳng	N	I-LOC
+Y tế	N	I-LOC
+Hà Tĩnh	Np	I-LOC
+
+công ty	N	B-LOC
+Tự Hào	Np	I-LOC
+,	CH	O
+Mỹ Tho	Np	B-LOC
+,	CH	O
+ấp	N	B-LOC
+Chợ	Np	I-LOC
+
+chị	Nc	O
+ở	E	O
+thị trấn	N	B-LOC
+Văn Điển	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Thanh Trì	Np	I-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+shop	A	O
+ơi	T	O
+
+ngõ	N	B-LOC
+31	M	B-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+17	M	I-LOC
+,	CH	O
+Phan Trọng Tuệ	Np	B-LOC
+,	CH	O
+Thanh Trì	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+Khánh Vĩnh	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+25	M	B-LOC
+Phạm Tu	Np	B-LOC
+,	CH	O
+Vĩnh Hải	Np	B-LOC
+,	CH	O
+Nha Trang	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+
+Nguyễn Thị Thùy Trang	Np	B-PER
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+6/1	M	I-LOC
+đường	N	B-LOC
+Trần Thánh Tông	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Tứ Hạ	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Hương Trà	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Huế	Np	I-LOC
+
+ấp	N	B-LOC
+Bình Thắng	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình Châu	Np	I-LOC
+,	CH	O
+Xuyên Mộc	Np	B-LOC
+.	CH	O
+
+em	N	O
+ở	E	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+luôn	R	O
+em	N	O
+sợ	V	O
+măc	V	O
+không	R	O
+vừa	R	O
+
+số	N	O
+điện thoại	N	O
+ship	V	O
+về	E	O
+thôn	N	B-LOC
+Chí Công	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Cư An	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đak Bơ	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Gia Lai	Np	I-LOC
+
+công ty	N	B-LOC
+Thành Lợi	Np	I-LOC
+đường	N	B-LOC
+số	N	I-LOC
+22	M	I-LOC
+,	CH	O
+khu chế xuất	N	B-LOC
+Tân Thuận	Np	B-LOC
+,	CH	O
+quận	N	O
+7	M	O
+,	CH	O
+Thanh	N	B-PER
+Thảo	M	I-PER
+
+31/3	M	B-LOC
+đường	N	B-LOC
+số	N	I-LOC
+5	M	I-LOC
+ấp	N	B-LOC
+Tân Tiến	N	I-LOC
+xã	N	I-LOC
+Xuân Hiệp	M	I-LOC
+-	CH	O
+huyện	N	O
+Xuân Lộc	V	O
+-	CH	O
+tỉnh	N	B-LOC
+Đồng Nai	N	I-LOC
+
+46	M	B-LOC
+Thái Phiên	Np	B-LOC
+,	CH	O
+phường	N	O
+Phước Ninh	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+Hải Châu	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Đà Nẵng	M	I-LOC
+
+
+173	M	B-LOC
+ấp	N	B-LOC
+Mỹ Tây	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Mỹ Lệ	N	I-LOC
+,	CH	O
+Cần Đước	N	B-LOC
+,	CH	O
+Long An	Np	B-LOC
+
+tới	E	O
+46	M	B-LOC
+Thái Phiên	Np	B-LOC
+,	CH	O
+Đà Nẵng	N	B-LOC
+nha	M	I-LOC
+
+khu	N	B-LOC
+công nghiệp	N	I-LOC
+Phước Đông	Np	I-LOC
+,	CH	O
+Gò	N	O
+Dầu	N	O
+,	CH	O
+Tây Ninh	N	O
+.	CH	O
+công ty	N	B-LOC
+Brotex	V	I-LOC
+.	CH	O
+Bảo	V	B-PER
+Nhi	V	I-PER
+
+đường	N	B-LOC
+số	Np	I-LOC
+3	M	I-LOC
+,	CH	O
+khu công nghiệp	N	B-LOC
+Tân Đức	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đức Hòa Hạ	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đức Hoà	N	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Long An	Np	I-LOC
+,	CH	O
+công ty	N	B-LOC
+nhựa	N	I-LOC
+Ngủ Kim	Np	I-LOC
+Zhanyi	M	I-LOC
+
+cho	E	O
+em	N	O
+tới	E	O
+chung cư	N	B-LOC
+Hoàng Văn Thụ	Np	I-LOC
+,	CH	O
+đường	N	B-LOC
+Xuân Thủy	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Quy Nhơn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Định	Np	I-LOC
+1	M	O
+bộ	Nc	B-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+ạ	T	O
+
+mình	P	O
+lấy	V	O
+size	N	B-SIZE
+S	Np	I-SIZE
+nha	I	O
+,	CH	O
+gửi	V	O
+xóm	N	B-LOC
+9	M	I-LOC
+,	CH	O
+Sông Khoai	N	B-LOC
+,	CH	O
+Quảng Yên	Np	B-LOC
+
+phố	N	B-LOC
+Phú Hà	Np	I-LOC
+-	CH	O
+phường	N	B-LOC
+Phong Châu	Np	I-LOC
+-	CH	O
+thị xã	N	B-LOC
+Phú Thọ	Np	I-LOC
+-	CH	O
+Phú Thọ	Np	B-LOC
+
+ship	V	O
+Quảng Ngãi	Np	B-LOC
+bao nhiêu	P	O
+ạ	T	O
+
+em	N	O
+ở	E	O
+TPHCM	Np	B-LOC
+
+268/9	M	B-LOC
+,	CH	O
+Vĩnh Viễn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+
+24B	M	B-LOC
+,	CH	O
+Nguyễn Gia Thiều	Np	B-LOC
+,	CH	O
+Vũng Tàu	Np	B-LOC
+
+mình	P	O
+ship	V	O
+về	E	O
+Phan Đăng Lưu	Np	B-LOC
+,	CH	O
+Phú Nhuận	Np	B-LOC
+thì	C	O
+bao nhiêu	P	O
+?	CH	O
+
+Size	M	O
+M	Np	O
+,	CH	O
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+An Đức	V	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Ba Tri	N	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bến Tre	Np	I-LOC
+
+cho	E	O
+mình	P	O
+1	M	O
+bộ	Nc	O
+size	N	O
+S	Np	O
+đến	V	O
+trường	N	B-LOC
+tiểu học	N	I-LOC
+Đồng Tâm	Np	I-LOC
+,	CH	O
+ngõ	N	B-LOC
+128	M	I-LOC
+,	CH	O
+Đại La	Np	B-LOC
+,	CH	O
+Hai Bà Trưng	N	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+12/95	M	B-LOC
+,	CH	O
+Cam Lộ	Np	B-LOC
+,	CH	O
+Hùng Vương	Np	B-LOC
+,	CH	I-LOC
+Hồng Bàng	Np	B-LOC
+,	CH	O
+Hải Phòng	Np	B-LOC
+
+
+ấp	N	B-LOC
+Ba Đình	Np	I-LOC
+,	CH	O
+vịnh	N	B-LOC
+Lộc Anh	Np	I-LOC
+,	CH	O
+Hồng Dân	Np	B-LOC
+,	CH	O
+Bạc Liêu	Np	B-LOC
+
+2/20/120	M	B-LOC
+Điện Biên Phủ	Np	B-LOC
+
+Spa	N	B-LOC
+Bình Yên	Np	I-LOC
+,	CH	O
+thôn	N	B-LOC
+Tân An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Hiền Ninh	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Sóc Sơn	Np	I-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+An Hiệp	Np	B-LOC
+-	CH	O
+Châu Thành	Np	B-LOC
+-	CH	O
+Bến Tre	Np	B-LOC
+
+hẻm	N	B-LOC
+36	M	I-LOC
+đường	N	B-LOC
+Trần Quốc Toản	Np	I-LOC
+,	CH	O
+khu	N	B-LOC
+Bình Minh	Np	I-LOC
+2	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Dĩ An	Np	I-LOC
+
+ship	V	O
+em	N	O
+ở	E	O
+606/63	M	B-LOC
+,	CH	O
+Ba Tháng Hai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+14	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+
+chị	Nc	O
+giao	V	O
+tới	E	O
+nhà	N	O
+mẹ	N	O
+em	N	O
+ở	E	O
+444/15	M	B-LOC
+,	CH	O
+CMT8	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+11	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+3	M	I-LOC
+
+ship	V	O
+tới	E	O
+Ba Tháng Hai	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+6	M	I-LOC
+hết	V	O
+bao nhiêu	P	O
+
+chị	Nc	O
+nhờ	V	O
+shipper	N	O
+chạy	V	O
+tới	E	O
+khách sạn	N	B-LOC
+Palace	M	I-LOC
+
+shop	Nc	O
+nhờ	V	O
+shipper	N	O
+chạy	V	O
+tới	E	O
+bệnh viện	N	B-LOC
+Từ Dũ	M	I-LOC 
+
+chị	Nc	O
+nhờ	V	O
+shipper	N	O
+chạy	V	O
+tới	E	O
+siêu thị	N	B-LOC
+Coop Mart	Np	I-LOC
+-	CH	O
+460	N	B-LOC
+,	CH	O
+Ba Tháng Hai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+12	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+,	CH	O
+khúc	N	B-LOC
+cầu vượt	N	I-LOC
+Nguyễn Tri Phương	Np	I-LOC
+
+Cách Mạng Tháng 8	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+Tân Bình	M	I-LOC
+
+gửi	V	O
+hàng	N	O
+về	E	O
+Vinh	Np	B-LOC
+,	CH	O
+Nghệ An	Np	B-LOC
+thì	C	O
+phí	N	O
+ship	V	O
+bao nhiêu	P	O
+ạ	T	O
+
+58/2A	M	B-LOC
+,	CH	O
+Phan Đình Phùng	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bến Tre	Np	I-LOC
+
+82/25/10	M	B-LOC
+Hải Thượng Lãn Ông	N	B-LOC
+,	CH	O
+phường	N	B-LOC
+3	M	I-LOC
+,	CH	O
+
+chị	Nc	O
+ơi	I	O
+chị	Nc	O
+thu hồi	V	O
+ở	E	O
+địa chỉ	N	B-LOC
+132	M	I-LOC
+Hàm Nghi	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bến Thành	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+giúp	V	O
+ạ	T	O
+
+ấp	N	B-LOC
+Thị 1	N	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Mỹ Luôn	Np	I-LOC
+,	CH	O
+Chợ Mới	Np	B-LOC
+,	CH	O
+An Giang	Np	B-LOC
+
+101	M	B-LOC
+Đông Bình	Np	B-LOC
+-	CH	O
+Bùi Chu	Ny	B-LOC
+-	CH	O
+Bắc Sơn	Ny	B-LOC
+-	CH	O
+Trảng Bom	Ny	B-LOC
+-	CH	O
+Đồng Nai	Np	B-LOC
+
+shop	Nc	O
+ship	V	O
+giúp	V	O
+mình	P	O
+về	V	O
+địa chỉ	N	O
+thôn	N	B-LOC
+Đông Anh	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Yên Khang	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Ý Yên	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Nam Định	Np	I-LOC
+nhé	T	O
+
+xóm	N	B-LOC
+1	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Minh Phú	Np	I-LOC
+(	CH	O
+Đồng Phú	Np	B-LOC
+)	CH	O
+Đông Hưng	Np	B-LOC
+-	CH	O
+Thái Bình	Np	B-LOC
+
+số	N	B-LOC
+1	M	I-LOC
+Lương Yên	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Bạch Đằng	Np	I-LOC
+,	CH	O
+Hai Bà Trưng	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+14/9d	M	B-LOC
+đường	N	B-LOC
+Nguyễn Văn Quỳ	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Thuận	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+
+Tuy Hoà	Np	B-LOC
+,	CH	O
+Phú Yên	Np	I-LOC
+
+đường	N	B-LOC
+Yết Kiêu	Np	I-LOC
+địa chỉ	N	O
+khu phố	N	B-LOC
+6	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Đông	Np	I-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+151	M	I-LOC
+
+mình	P	O
+ở	E	O
+nhà văn hoá	N	B-LOC
+Cao Xá	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đức Thượng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Hoài Đức	Np	I-LOC
+thành phố	N	B-LOC
+Hà Nội	Np	I-LOC
+
+326	N	B-LOC
+Nguyễn Huệ	Np	B-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Đăk Đó	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đăk Đó	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Gia Lai	Np	I-LOC
+
+phường	N	B-LOC
+7	M	I-LOC
+
+627	N	B-LOC
+Hoàng Sa	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+3	M	I-LOC
+
+mình	P	O
+ở	E	O
+Hà Nội	Np	B-LOC
+ạ	T	O
+
+thôn	N	B-LOC
+Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Các Sơn	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Nghi Sơn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Thanh Hoá	Np	I-LOC
+,	CH	O
+số	N	O
+điện thoại	N	O
+
+phí	N	O
+ship	V	O
+về	E	O
+thị xã	N	B-LOC
+Nghi Sơn	Np	I-LOC
+bao nhiêu	V	O
+ạ	T	O
+
+địa chỉ	N	O
+220	M	B-LOC
+Giếng Đồn	Np	I-LOC
+,	CH	O
+Trần Hưng Đạo	Np	B-LOC
+,	CH	O
+Hạ Long	Np	B-LOC
+,	CH	O
+Quảng Ninh	Np	B-LOC
+
+ở	E	O
+Ngãi Giao	Np	B-LOC
+,	CH	B-LOC
+Châu Đức	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+
+129/33	M	B-LOC
+đường	N	B-LOC
+Trần Vĩnh Kiết	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+An Bình	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+Cần Thơ	Np	B-LOC
+
+ấp	N	B-LOC
+Mỹ Thạnh Anh	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Tiên	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cai Lậy	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tiền Giang	Np	I-LOC
+
+Hoàng Mai	N	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+thì	C	O
+ship	V	O
+khoảng	A	O
+bao lâu	P	O
+ạ	T	O
+
+tỉnh	N	B-LOC
+Long An	Np	I-LOC
+chị	Nc	O
+
+Đá Trắng	Np	B-LOC
+,	CH	O
+Cầu Bà	Np	B-LOC
+,	CH	O
+Khánh Vĩnh	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+địa chỉ	N	O
+167	M	B-LOC
+Trần Quí Cáp	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Tam Kỳ	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Quảng Nam	Np	I-LOC
+số	N	O
+điện thoại	N	O
+
+dạ	N	O
+ship	V	O
+tới	E	O
+50/2B	M	B-LOC
+tổ	N	B-LOC
+6	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+Lê Thị Út	Np	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+Chiêu Liêu	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Đông Hiệp	Np	I-LOC
+,	CH	O
+Dĩ An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+nha	M	O
+
+em	N	O
+ở	E	O
+Chiêu Liêu	Np	B-LOC
+,	CH	O
+Dĩ An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+số	N	B-LOC
+43	M	I-LOC
+Lê Duẩn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+1	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bạc Liêu	Np	I-LOC
+
+ẩm thực	N	O
+miền Tây	N	B-LOC
+,	CH	O
+số	N	B-LOC
+43	M	I-LOC
+Lê Duẩn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+1	M	I-LOC
+
+minh	N	O
+ở	E	O
+Phước Long	Np	B-LOC
+,	CH	O
+giờ	N	O
+đặt	V	O
+mấy	L	O
+ngày	N	O
+có	V	O
+
+phường	N	B-LOC
+Thanh Lương	Np	I-LOC
+,	CH	O
+Hai Bà Trưng	M	B-LOC
+
+vậy	P	O
+ship	V	O
+cho	E	O
+mình	P	O
+về	E	O
+14/333	M	B-LOC
+Nguyễn Khoái	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+49	N	B-LOC
+Hà Thanh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Vạn Thắng	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Nha Trang	Np	I-LOC
+
+268/2/11/1	M	B-LOC
+Trần Phú	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+5	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Vũng Tàu	Np	I-LOC
+
+tiệm	N	B-LOC
+Internet	FW	I-LOC
+767	M	I-LOC
+gaming	N	I-LOC
+,	CH	O
+188E	M	B-LOC
+,	CH	O
+ấp	N	B-LOC
+Sông Mây	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bắc Sơn	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Trảng Bom	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đồng Nai	Np	I-LOC
+ấp	N	B-LOC
+Mỹ Lược	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thiện Trung	Np	I-LOC
+,	CH	O
+Cái Bè	Np	B-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+
+ấp	N	B-LOC
+Tân Hoà	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Hoà Bình	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Trà Ôn	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Vĩnh Long	Np	I-LOC
+
+khu phố	N	B-LOC
+14	M	I-LOC
+gần	A	O
+đồn	N	B-LOC
+công an	N	I-LOC
+Mũi Né	Np	I-LOC
+
+số	N	O
+nhà	N	B-LOC
+134	M	I-LOC
+,	CH	O
+buôn	N	B-LOC
+Kotam	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Eatu	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Buôn Mê Thuột	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đăk Lăk	Np	I-LOC
+
+số	N	O
+nhà	N	B-LOC
+32	M	I-LOC
+đường	N	B-LOC
+NB11	Np	I-LOC
+,	CH	O
+Mỹ Phước 2	Np	B-LOC
+,	CH	O
+Bến Cát	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+số	N	O
+điện thoại	N	O
+
+128	N	B-LOC
+Tô Hiến Thành	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+15	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+10	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+
+tiệm	N	O
+thuốc tây	N	O
+,	CH	O
+phường	N	B-LOC
+Bình An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Lộc Vĩnh	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Phú Lộc	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Thừa Thiên Huế	Np	I-LOC
+
+96/7	M	B-LOC
+đường	N	B-LOC
+số	N	I-LOC
+1	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Gò Vấp	Np	I-LOC
+
+khu phố	N	B-LOC
+Bầu Kê	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đông Phú	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Phước	Np	I-LOC
+
+ấp	N	B-LOC
+Khương Ninh	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Bình	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Gò Công Tây	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tiền Giang	Np	I-LOC
+
+289A	M	B-LOC
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình Tâm	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Tân An	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Long An	Np	I-LOC
+
+phường	N	B-LOC
+Thượng Lí	Np	I-LOC
+đó	P	O
+ạ	T	O
+
+bây giờ	P	O
+06-30	M	B-LOC
+Vinhomes	Np	B-LOC
+Thượng Lý	Np	I-LOC
+-	CH	O
+Hồng Bàng	Ny	B-LOC
+-	CH	O
+Hải Phòng	Np	B-LOC
+
+350/26	M	B-LOC
+Huỳnh Tấn Phát	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bình Thuận	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+
+113/18/8	M	B-LOC
+Trần Văn Đang	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+9	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+3	M	I-LOC
+
+toà nhà	N	B-LOC
+B1A	N	I-LOC
+chung cư	N	B-LOC
+Xã Hội	Np	I-LOC
+,	CH	O
+khu công nghiệp	N	B-LOC
+Hoà Khánh Bắc	Np	I-LOC
+,	CH	O
+Liên Chiểu	Np	B-LOC
+,	CH	O
+Đà Nẵng	Np	B-LOC
+
+giao	V	O
+cho	E	O
+mình	P	O
+tới	E	O
+địa chỉ	N	O
+46	M	B-LOC
+Hùng Vương	Np	B-LOC
+,	CH	O
+Ngãi Giao	Np	B-LOC
+,	CH	O
+Châu Đức	Np	B-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+nhé	T	O
+shop	Nc	O
+
+khu phố	N	B-LOC
+Phú Trường	Np	I-LOC
+,	CH	O
+công ty	N	B-LOC
+may	V	I-LOC
+Phú Long	Np	I-LOC
+,	CH	O
+Hàm Thuận Bắc	Np	B-LOC
+,	CH	O
+Bình Thuận	Np	B-LOC
+
+tổ	N	B-LOC
+dân phố	N	I-LOC
+9	M	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Chư Ty	Np	I-LOC
+,	CH	B-LOC
+Đức Cơ	Np	I-LOC
+,	CH	B-LOC
+Gia Lai	Np	I-LOC
+
+
+98/15	M	B-LOC
+Ung Văn Khiêm	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+25	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+ạ	T	O
+
+143	M	B-LOC
+Quán Sứ	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+11	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+11	M	I-LOC
+
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+Long An	Np	B-LOC
+,	CH	O
+Long Thành	Np	B-LOC
+,	CH	O
+Đồng Nai	Np	B-LOC
+
+ấp	N	B-LOC
+8	M	I-LOC
+Sáng	N	B-LOC
+,	CH	O
+xã	N	B-LOC
+Đông Hoà	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+An Minh	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Kiên Giang	Np	I-LOC
+
+bưu điện	N	B-LOC
+Rồi Chài	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Phú Hội	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đức Trọng	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Lâm Đồng	Np	I-LOC
+
+bạn	N	O
+ơi	I	O
+giao	V	O
+đến	E	O
+hẻm	N	B-LOC
+tổ	N	I-LOC
+8	M	I-LOC
+,	CH	O
+khu vực	N	B-LOC
+5	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+Nguyễn Văn Linh	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Hưng Lợi	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+nhe	M	O
+
+ấp	N	B-LOC
+Cái Hàng	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Trần Thới	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Cà Mau	Np	I-LOC
+
+em	N	O
+đón	V	O
+ngay	T	O
+chỗ	N	O
+trường	N	B-LOC
+Nghĩa Hiệp	Np	I-LOC
+cũ	A	O
+luôn	R	O
+á	V	O
+
+kêu	V	O
+shipper	N	O
+chạy	V	O
+tới	E	O
+đầu	N	B-LOC
+lộ	N	I-LOC
+Phú Mỹ	Np	I-LOC
+
+bưu điện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Cái Nước	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Cà Mau	Np	I-LOC
+
+Diamond Plaza	Np	B-LOC
+,	CH	O
+34	M	B-LOC
+Lê Duẩn	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+
+tổ	N	B-LOC
+4	M	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+8	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Uyên Hưng	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Tân Uyên	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Dương	Np	I-LOC
+
+khu	N	B-LOC
+công nghiệp	N	I-LOC
+Tân Hương	Np	I-LOC
+
+06A	M	B-LOC
+Hoàng Sơn	Np	B-LOC
+,	CH	B-LOC
+Vũng Đình	Np	B-LOC
+,	CH	O
+Vĩnh Ngọc	Np	B-LOC
+,	CH	B-LOC
+Nha Trang	Np	B-LOC
+
+tỉnh lộ	N	B-LOC
+328	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Phước Thuận	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Xuyên Mộc	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bà Rịa	Np	I-LOC
+-	CH	O
+Vũng Tàu	Np	B-LOC
+
+đường	N	B-LOC
+181	M	I-LOC
+,	CH	O
+Nguyễn Thị Minh Khai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Phú Hoà	Np	I-LOC
+,	CH	O
+Thủ Dầu Một	Np	I-LOC
+
+dạ	V	O
+số	N	O
+điện thoại	N	O
+là	V	O
+địa chỉ	N	B-LOC
+001/5A	M	I-LOC
+xã	N	B-LOC
+Tân Hưng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Ba Tri	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bến Tre	Np	I-LOC
+
+gửi	V	O
+về	E	O
+địa chỉ	N	B-LOC
+39/1	M	I-LOC
+Lê Văn Chí	Np	B-LOC
+,	CH	O
+Linh Trung	Np	B-LOC
+,	CH	B-LOC
+Thủ Đức	Np	I-LOC
+
+ấp	N	B-LOC
+Bình Tân	Np	I-LOC
+,	CH	O
+chợ	N	B-LOC
+Bình Châu	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Xuyên Mộc	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+
+dạ	N	O
+địa chỉ	N	O
+nhà	N	O
+em	N	O
+là	V	O
+1650	M	B-LOC
+quốc lộ	N	B-LOC
+1A	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Thới An	Np	I-LOC
+,	CH	O
+quận	N	O
+12	M	O
+ạ	T	O
+
+địa chỉ	N	O
+Bá Thiện 2	Np	B-LOC
+,	CH	O
+cây xăng	N	B-LOC
+Văn Cương	Np	I-LOC
+Ngũ Hồ	Np	I-LOC
+,	CH	O
+Thiện Kế	Np	B-LOC
+,	CH	O
+Bình Xuyên	Np	I-LOC
+,	CH	O
+Vĩnh Phúc	Np	B-LOC
+ạ	T	O
+
+171/143	M	B-LOC
+An Bình	Np	B-LOC
+,	CH	B-LOC
+Dĩ An	Np	I-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+Thủ Đức	N	B-LOC
+chị	Nc	O
+
+1058	M	B-LOC
+Nguyễn Văn Linh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Phong	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+7	M	I-LOC
+(	CH	O
+Vivo City	Np	B-LOC
+)	CH	O
+
+373	M	B-LOC
+Lý Bôn	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Kỳ Ba To	Np	I-LOC
+,	CH	O
+Thái Bình	Np	B-LOC
+
+328	M	B-LOC
+Phan Đình Phùng	Np	B-LOC
+-	CH	O
+Bắc Lý	Ny	B-LOC
+-	CH	O
+Đồng Hới	Ny	B-LOC
+-	CH	O
+Quảng Bình	Np	B-LOC
+
+81A	M	B-LOC
+đường	N	B-LOC
+339	M	I-LOC
+,	CH	O
+Phước Long B	Np	B-LOC
+,	CH	O
+quận	N	B-LOC
+9	M	I-LOC
+
+ở	E	O
+Sài Gòn	Np	B-LOC
+bao giờ	P	O
+nhận	V	O
+được	R	O
+à	T	O
+
+được	V	O
+chợ	N	B-LOC
+Mao Dộc	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Mao Quế	Np	I-LOC
+,	CH	O
+Bắc Ninh	Np	B-LOC
+ạ	T	O
+
+số	N	O
+điện thoại	N	O
+,	CH	O
+địa chỉ	N	O
+35	M	B-LOC
+Hoàng Quốc Việt	Np	B-LOC
+phường	N	B-LOC
+An Bình	Np	I-LOC
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+Đà Nẵng	Np	B-LOC
+
+Trần Thị Thu	Np	B-PER
+,	CH	O
+số	N	B-LOC
+2	M	I-LOC
+,	CH	O
+đường	N	B-LOC
+số	N	I-LOC
+9	M	I-LOC
+,	CH	O
+khu	N	B-LOC
+dân cư	N	I-LOC
+Hồng Phát A	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+An Bình	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+Trạch Hữu	Np	B-LOC
+,	CH	O
+Phong Thu	Np	B-LOC
+,	CH	O
+Phong Điền	Np	B-LOC
+,	CH	O
+Huế	Np	B-LOC
+
+địa chỉ	N	O
+,	CH	O
+khu phố	N	B-LOC
+3	M	I-LOC
+,	CH	O
+Mỹ Phước 2	Np	B-LOC
+,	CH	O
+đường	N	B-LOC
+XC1A	Np	I-LOC
+,	CH	O
+Bến Cát	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+,	CH	O
+tiệm	N	B-LOC
+tóc	N	I-LOC
+Thùy Linh	Np	I-LOC
+
+đội	N	B-LOC
+Ba Thâm Khê	Np	I-LOC
+,	CH	O
+Hải Khê	Np	B-LOC
+,	CH	O
+Hải Lăng	Np	B-LOC
+,	CH	O
+Quảng Trị	Np	B-LOC
+
+phường	N	B-LOC
+Nguyễn Văn Cừ	Np	I-LOC
+ạ	T	O
+
+được	R	O
+kiểm	V	O
+hàng	N	O
+trước	E	O
+khi	N	O
+nhận	V	O
+đúng	A	O
+không	R	O
+ạ	I	O
+,	CH	O
+76/6	M	B-LOC
+Tô Hiến Thành	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Quy Nhơn	Np	I-LOC
+ạ	T	O
+
+1f/6	M	B-LOC
+khu phố	N	B-LOC
+Đồng An 1	Np	I-LOC
+,	CH	O
+Bình Hoà	Np	B-LOC
+,	CH	O
+Thuận An	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+mình	P	O
+ở	E	O
+Bình Dương	Np	B-LOC
+thì	C	O
+khi	N	O
+nào	P	O
+nhận	V	O
+được	R	O
+hàng	N	O
+?	CH	O
+
+thôn	N	B-LOC
+Hòa Quảng	N	I-LOC
+,	CH	O
+xã	N	B-LOC
+Tân Mộc	Np	I-LOC
+,	CH	O
+Lục Ngân	Np	B-LOC
+,	CH	O
+Bắc Giang	Np	B-LOC
+
+chị	Nc	O
+ship	V	O
+cho	E	O
+em	N	O
+ở	E	O
+phía	N	B-LOC
+sau	N	I-LOC
+trường	N	I-LOC
+trung học phổ thông	N	I-LOC
+Nguyễn Đáng	Np	I-LOC
+
+vậy	P	O
+nhờ	V	O
+bạn	N	O
+ship	V	O
+về	E	O
+địa chỉ	N	O
+Thanh Long	Np	B-LOC
+Cát Tường	Np	I-LOC
+(	CH	O
+212	M	B-LOC
+quốc lộ	N	B-LOC
+50	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Đạo Thạnh	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+
+từ	E	O
+Hồ Chí Minh	Np	B-LOC
+,	CH	O
+địa chỉ	N	O
+shop	Nc	O
+giao	V	O
+về	E	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+,	CH	O
+Tiền Giang	Np	B-LOC
+thì	C	O
+bao lâu	P	O
+mình	P	O
+nhận	V	O
+được	R	O
+
+địa chỉ	N	O
+khu công nghiệp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+trong	E	O
+khu	N	B-LOC
+nhà xưởng	N	I-LOC
+Nhật Bản	Np	I-LOC
+nha	V	O
+chị	Nc	O
+
+tên	N	O
+công ty	N	O
+em	N	O
+làm	V	O
+là	V	O
+công ty	N	B-LOC
+trách nhiệm	N	I-LOC
+hữu hạn	N	I-LOC
+sản xuất	V	I-LOC
+sản phẩm	N	I-LOC
+kim loại	N	I-LOC
+Bu Zhou	Np	I-LOC
+Việt Nam	Np	B-LOC
+
+chị	Nc	O
+giao	V	O
+địa chỉ	N	O
+này	P	O
+cho	E	O
+em	N	O
+nha	T	O
+chị	Nc	O
+trong	E	O
+khu	N	B-LOC
+nhà xưởng	N	I-LOC
+Nhật Bản	Np	I-LOC
+á	V	O
+chị	Nc	O
+
+36A	M	O
+Xô Viết Nghệ Tĩnh	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+19	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+
+54	M	B-LOC
+Trường Sa	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+17	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+
+số	N	O
+điện thoại	N	O
+,	CH	O
+địa chỉ	N	O
+khách sạn	N	B-LOC
+New World	Np	I-LOC
+,	CH	O
+76	M	B-LOC
+Lê Lai	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Bến Thành	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+1	M	I-LOC
+(	CH	O
+cổng	N	B-LOC
+sau	N	I-LOC
+Nguyễn Thị Nghĩa	Np	I-LOC
+)	CH	O
+
+công ty	N	B-LOC
+Hồng Tuấn	Np	I-LOC
+Vượng Phát	Np	I-LOC
+,	CH	O
+503A	M	B-LOC
+Trần Hưng Đạo	Np	B-LOC
+,	CH	O
+Bình Đức	Np	B-LOC
+,	CH	O
+Long Xuyên	Np	B-LOC
+
+địa chỉ	N	O
+ấp	N	B-LOC
+Bình Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình An	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Kiên Lương	Np	I-LOC
+,	CH	O
+Kiên Giang	Np	B-LOC
+số	N	O
+điện thoại	N	O
+
+địa chỉ	N	O
+30/9	M	B-LOC
+Phạm Phú Thứ	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+3	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+6	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+
+địa chỉ	N	O
+ấp	N	B-LOC
+Bửu Đông	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Long Điền Đông	Np	I-LOC
+,	CH	O
+Đông Hải	Np	B-LOC
+,	CH	O
+Bạc Liêu	Np	B-LOC
+
+chỉ	R	O
+cần	V	O
+đến	V	O
+xưởng	N	B-LOC
+tôm	N	I-LOC
+Thanh Phu	Np	I-LOC
+ở	E	O
+cống	N	B-LOC
+Cái	Np	I-LOC
+Cùng	Np	I-LOC
+là	V	O
+được	V	O
+
+77/27	M	B-LOC
+Hòa Long A	Np	B-LOC
+,	CH	B-LOC
+Thới Hòa	Np	I-LOC
+,	CH	O
+Ô Môn	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+địa chỉ	N	O
+,	CH	O
+chợ	N	B-LOC
+Lý Phục Man	Np	I-LOC
+,	CH	O
+đường	N	B-LOC
+số	N	I-LOC
+2	M	I-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+19	M	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+3	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Bình Thuận	Np	I-LOC
+,	CH	O
+quận	N	O
+7	M	O
+
+Ngô Đình Yến Vy	Np	B-PER
+,	CH	O
+42	M	B-LOC
+Nguyễn Văn Trỗi	Np	B-LOC
+cũ	A	O
+,	CH	O
+phường	N	B-LOC
+Nghĩa Đức	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Gia Nghĩa	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đăk Nông	Np	I-LOC
+
+địa chỉ	N	O
+lô	N	B-LOC
+17	M	I-LOC
+,	CH	O
+dịch vụ	N	B-LOC
+8	M	I-LOC
+,	CH	O
+Tây Nam	Np	B-LOC
+,	CH	O
+Linh Đàm	Np	B-LOC
+,	CH	O
+Hoàng Mai	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+phường	N	B-LOC
+Vĩnh Thành	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Rạch Giá	Np	I-LOC
+,	CH	B-LOC
+Kiên Giang	Np	I-LOC
+
+20/65	M	B-LOC
+Nguyễn Văn Kiến	Np	B-LOC
+
+địa chỉ	N	O
+xóm	N	B-LOC
+Nội	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Nội Hoàng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Yên Dũng	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bắc Giang	Np	I-LOC
+
+602	M	B-LOC
+Phạm Văn Đồng	Np	I-LOC
+,	CH	O
+hiệp	N	B-LOC
+Bình Chánh	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Thủ Đức	Np	I-LOC
+ạ	T	O
+
+em	N	O
+ở	E	O
+ấp	N	B-LOC
+Đài An	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thới An Hội	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Kế Sách	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Sóc Trăng	Np	I-LOC
+
+28	M	O
+cái	Nc	O
+tổ	N	B-LOC
+7	M	I-LOC
+khu phố	N	B-LOC
+6	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Long Bình	Np	I-LOC
+,	CH	O
+Biên Hòa	Np	B-LOC
+,	CH	O
+Đồng Nai	Np	B-LOC
+
+84/28	M	B-LOC
+đường	N	B-LOC
+Cách Mạng Tháng Tám	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Cái Khế	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Ninh Kiều	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+261	M	B-LOC
+Văn Lâm	Np	B-LOC
+,	CH	O
+Hàm Mỹ	Np	B-LOC
+,	CH	O
+Hàm Thụân Nam	Np	B-LOC
+
+em	N	O
+là	V	O
+sinh viên	N	O
+,	CH	O
+em	N	O
+ở	E	O
+ký túc xá	N	B-LOC
+trường	N	I-LOC
+Cao đẳng	N	I-LOC
+Y tế	N	I-LOC
+Hà Tĩnh	Np	I-LOC
+
+công ty	N	B-LOC
+Tự Hào	Np	I-LOC
+,	CH	O
+Mỹ Tho	Np	B-LOC
+,	CH	O
+ấp	N	B-LOC
+Chợ	Np	I-LOC
+
+chị	Nc	O
+ở	E	O
+thị trấn	N	B-LOC
+Văn Điển	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Thanh Trì	Np	I-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+shop	Nc	O
+ơi	T	O
+
+ngõ	N	B-LOC
+31	M	B-LOC
+,	CH	O
+số	N	B-LOC
+nhà	N	I-LOC
+17	M	I-LOC
+,	CH	O
+Phan Trọng Tuệ	Np	B-LOC
+,	CH	O
+Thanh Trì	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+Khánh Vĩnh	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+25	M	B-LOC
+Phạm Tu	Np	B-LOC
+,	CH	O
+Vĩnh Hải	Np	B-LOC
+,	CH	O
+Nha Trang	Np	B-LOC
+,	CH	O
+Khánh Hoà	Np	B-LOC
+
+chị	Nc	O
+ship	V	O
+em	N	O
+địa chỉ	N	O
+176	M	B-LOC
+Đoàn Ngọc Nhạc	Np	B-LOC
+,	CH	O
+Hoà Xuân	Np	B-LOC
+,	CH	O
+Cẩm Lệ	Np	B-LOC
+,	CH	O
+Đà Nẵng	Np	B-LOC
+
+ấp	N	B-LOC
+Bình Thắng	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bình Châu	Np	I-LOC
+,	CH	O
+Xuyên Mộc	Np	B-LOC
+.	CH	O
+
+em	N	O
+ở	E	O
+thành phố	N	B-LOC
+Hồ Chí Minh	Np	I-LOC
+luôn	R	O
+em	N	O
+sợ	V	O
+măc	V	O
+không	R	O
+vừa	R	O
+
+số	N	O
+điện thoại	N	O
+ship	V	O
+về	E	O
+thôn	N	B-LOC
+Chí Công	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Cư An	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đak Bơ	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Gia Lai	Np	I-LOC
+
+công ty	N	B-LOC
+Thành Lợi	Np	I-LOC
+đường	N	B-LOC
+số	N	I-LOC
+22	M	I-LOC
+,	CH	O
+khu chế xuất	N	B-LOC
+Tân Thuận	Np	B-LOC
+,	CH	O
+quận	N	O
+7	M	O
+,	CH	O
+Thanh	N	B-PER
+Thảo	M	I-PER
+
+31/3	M	B-LOC
+đường	N	B-LOC
+số	N	I-LOC
+5	M	I-LOC
+-	CH	O
+ấp	N	B-LOC
+Tân Tiến	N	I-LOC
+xã	N	I-LOC
+Xuân Hiệp	M	I-LOC
+-	CH	O
+huyện	N	O
+Xuân Lộc	V	O
+-	CH	O
+tỉnh	N	B-LOC
+Đồng Nai	N	I-LOC
+
+173	M	B-LOC
+ấp	N	B-LOC
+Mỹ Tây	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Mỹ Lệ	N	I-LOC
+,	CH	O
+Cần Đước	N	B-LOC
+,	CH	O
+Long An	Np	B-LOC
+
+tới	E	O
+41/1	M	B-LOC
+Ngô Quyền	Np	B-LOC
+,	CH	O
+Đà Nẵng	N	B-LOC
+nha	M	I-LOC
+
+mình	P	O
+ship	V	O
+Quy Nhơn	Np	B-LOC
+bao nhiêu	P	O
+shop	Nc	O
+ơi	I	O
+
+ship	V	O
+về	E	O
+Nha Trang	Np	B-LOC
+bao nhiêu	P	O
+ạ	T	O
+
+còn	R	O
+thì	C	O
+mình	P	O
+đặt	V	O
+,	CH	O
+37	N	B-LOC
+Cửu Long	Np	I-LOC
+,	CH	O
+Phước Hòa	Np	B-LOC
+,	CH	B-LOC
+Nha Trang	Np	I-LOC
+
+nếu	C	O
+còn	V	O
+gửi	V	O
+về	R	O
+cho	E	O
+mình	P	O
+tại	E	O
+197	N	B-LOC
+Nguyễn Tất Thành	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Đăk Mil	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Đăk Nông	Np	I-LOC
+nhé	T	O
+
+ship	N	O
+Hà Nội	Np	B-LOC
+thế nào	X	O
+ạ	T	O
+
+còn	R	O
+không	R	O
+cần	V	O
+gọi	V	O
+lại	R	O
+đâu	T	O
+ạ	T	O
+,	CH	O
+địa chỉ	N	O
+thôn	N	B-LOC
+Phú Trung	Np	I-LOC
+5	M	O
+,	CH	O
+Đại Hiệp	Np	B-LOC
+,	CH	B-LOC
+Đại Lộc	Np	I-LOC
+,	CH	O
+Quảng Nam	Np	B-LOC
+
+Địa chỉ	N	O
+6	M	B-LOC
+,	CH	O
+Trần Văn Ơn	Np	B-LOC
+,	CH	O
+đại học	N	B-LOC
+Thủ Dầu Một	Np	I-LOC
+,	CH	O
+Phú Hoà	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+1	M	O
+cái	T	O
+,	CH	O
+30A	N	B-LOC
+khu	N	B-LOC
+Đông Bắc	Np	I-LOC
+,	CH	B-LOC
+Cái Dầu	Np	I-LOC
+,	CH	B-LOC
+Châu Phú A	Np	I-LOC
+
+ship	N	O
+quận	N	B-LOC
+9	M	I-LOC
+bao nhiêu	P	O
+ạ	T	O
+
+119	N	B-LOC
+,	CH	O
+quốc lộ	N	B-LOC
+13	M	I-LOC
+,	CH	O
+hiệp	N	B-LOC
+Bình Chánh	Np	I-LOC
+,	CH	O
+Thủ Đức	Np	B-LOC
+
+gửi	V	O
+xe	N	O
+ngoài	E	O
+bến xe	N	B-LOC
+miền	N	I-LOC
+Đông	Np	I-LOC
+
+mình	P	O
+ở	E	O
+Đăk Lăk	Np	B-LOC
+á	M	O
+
+người	N	O
+nhận	V	O
+Trang Anh	Np	B-PER
+.	CH	O
+
+địa chỉ	N	O
+khách sạn	N	B-LOC
+Công Đoàn	Np	I-LOC
+,	CH	O
+tổ	N	B-LOC
+4	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Tân Thanh	Np	I-LOC
+.	CH	O
+thành phố	N	B-LOC
+Điện Biên	Np	I-LOC
+.	CH	O
+
+415B	N	B-LOC
+,	CH	O
+khu vực	N	B-LOC
+Phú Mỹ	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Thường Thạnh	Np	I-LOC
+,	CH	O
+quận	N	B-LOC
+Cái Răng	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Cần Thơ	Np	I-LOC
+
+ấp	N	B-LOC
+3	M	I-LOC
+,	CH	O
+xã	N	B-LOC
+Tân Lập	Np	I-LOC
+1	M	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Tân Phước	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tiền Giang	Np	I-LOC
+
+Quầy	Np	B-LOC
+thuốc	N	I-LOC
+323	M	I-LOC
+,	CH	O
+thôn	N	B-LOC
+4	M	I-LOC
+,	CH	O
+Tam Quang	Np	B-LOC
+,	CH	O
+Núi Thành	Np	B-LOC
+,	CH	O
+Quảng Nam	Np	B-LOC
+
+58	N	B-LOC
+,	CH	O
+Nguyễn Đổng Chi	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+Nam Hồng	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Hồng Lĩnh	Np	I-LOC
+1	M	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Hà Tĩnh	Np	I-LOC
+.	CH	O
+
+địa chỉ	N	O
+bưu điện	N	B-LOC
+Mũi Né	Np	I-LOC
+,	CH	O
+TP.Phan Thiết	Np	B-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bình Thuận	Np	I-LOC
+
+địa chỉ	N	O
+phường	N	B-LOC
+Hiệp An	Np	I-LOC
+-	CH	O
+Kinh Môn	Ny	B-LOC
+-	CH	O
+Hải Dương	Np	B-LOC
+
+
+An Thạnh Trung	Np	B-LOC
+,	CH	O
+Chợ Mới	Np	B-LOC
+,	CH	O
+An Giang	Np	B-LOC
+
+199	M	B-LOC
+,	CH	O
+Đống Đa	Np	B-LOC
+,	CH	O
+Hải Châu	Np	B-LOC
+,	CH	O
+Đà Nẵng	Np	B-LOC
+
+ấp	N	B-LOC
+Ninh Thuận	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Bàu Năng	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Dương Minh Châu	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Tây Ninh	Np	I-LOC
+
+29	M	B-LOC
+,	CH	O
+Trần Nhân Tông	Np	B-LOC
+.	CH	O
+Đồng Phú	Np	B-LOC
+.	CH	O
+Đồng Hới	Np	B-LOC
+.	CH	O
+Quảng Bình	Np	B-LOC
+
+phòng khám	N	B-LOC
+đa khoa	N	I-LOC
+Kiều Linh	Np	I-LOC
+-	CH	O
+Bình Long	Np	B-LOC
+
+Trần Ngọc Thảo	Np	B-PER
+,	CH	O
+22	M	B-LOC
+,	CH	O
+tổ	N	B-LOC
+8	M	I-LOC
+,	CH	O
+khu phố	N	B-LOC
+3	M	I-LOC
+,	CH	O
+thị trấn	N	B-LOC
+Mỏ Cày	Np	I-LOC
+,	CH	O
+Bến Tre	Np	B-LOC

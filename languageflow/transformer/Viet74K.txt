@@ -158,6 +158,7 @@ a-zốt
 á quân
 á sừng
 á thánh
+ả đào
 ạ
 ạ ơi
 abc
@@ -261,6 +262,7 @@ ai biết đâu
 ai biết phận nấy
 ai cảm
 ai cắt rốn cho
+Ai Cập
 ai cập học
 ai chỉ
 ai dà
@@ -865,7 +867,7 @@ ao-xơ
 áo nậu
 áo nẹp
 áo ngắn giũ chẳng nên dài
-áo ngự
+áo ngực
 áo nhộng
 áo nịt
 áo nước
@@ -901,6 +903,7 @@ ao-xơ
 áo tứ thân
 áo vàng
 áo vét
+áo vest
 áo vét-tông
 áo vệ sinh
 áo xanh
@@ -910,6 +913,7 @@ ao-xơ
 áo xổ gấu
 áo xống
 áo xpen-xe
+áo yếm
 ạo ực
 áp
 áp bách
@@ -980,6 +984,7 @@ atmosphe
 atropin
 au
 Au
+Australia
 au au
 au-xơ
 automat
@@ -1851,7 +1856,6 @@ azot
 ấy chết
 ấy thế mà
 B'Lao
-B,b
 b
 B
 B40
@@ -2017,7 +2021,7 @@ Ba Tầng
 ba-tê
 ba tê
 ba-tê-sô
-ba tháng
+ba tháng hai
 ba tháng mười ngày
 ba tháng trông cây một ngày trông quả
 Ba Thành
@@ -6063,6 +6067,7 @@ bồ dục chấm mắm cáy
 bồ dục đâu đến bàn thứ năm
 bồ đài
 bồ đào
+Bồ Đào Nha
 bồ đầy bồ vơi
 bồ đầy cót vơi
 bồ đề
@@ -7377,7 +7382,6 @@ Bửu Hoà
 Bửu Long
 bửu vật
 byte
-c, C
 c
 c 
 C 
@@ -7906,6 +7910,8 @@ cách mạng hoá
 cách mạng khoa học - kĩ thuật
 cách mạng kĩ thuật
 cách mạng quan hệ sản xuất
+cách mạng tháng 8
+cách mạng tháng tám
 cách mạng tư sản
 cách mạng tư sản dân chủ
 cách mạng tư tưởng và văn hoá
@@ -10669,6 +10675,7 @@ chẩm cầm
 chấm
 chấm ảnh
 chấm bài
+chấm bi
 chấm câu
 chấm chấm
 chấm công
@@ -13846,6 +13853,7 @@ Chư Yang Sin
 chừ
 chừ bự
 chữ
+chữ A
 chữ bát
 chữ cái
 chữ chân
@@ -13908,6 +13916,7 @@ chữ tòng
 chữ tốt văn hay
 chữ triện
 chữ trung
+chữ V
 chữ vạn
 chữ viết
 chữ viết ghi âm
@@ -16358,6 +16367,8 @@ cúa
 cuaroa
 cuarơ
 cúc
+cúc áo
+cúc quần
 cúc bách nhiệt
 cúc bấm
 cúc cu
@@ -16717,6 +16728,7 @@ cuộng rau
 Cuôr KNia
 cúp
 cúp đuôi
+cúp ngực
 cụp
 cụp đuôi
 cụp tai
@@ -17338,7 +17350,6 @@ cựu ước
 Cựu ước
 CY
 cybernetic
-d, D
 d
 D
 da
@@ -17503,6 +17514,7 @@ dài ngoằng
 dài ngoẵng
 dài nhằng
 dài nhẵng
+dài tay
 dài thòng
 dài thườn thượt
 dài thưỡn
@@ -18111,7 +18123,9 @@ dập dìu
 dập dồn
 dập dờn
 dập đầu
+dập li
 dập liễu vùi hoa
+dập ly
 dập tắt
 dập vùi
 dật cư
@@ -19762,6 +19776,7 @@ dynamo
 đà đận
 đà điểu
 đà đuột
+Đà Nẵng
 đà tàu
 đà tích
 đả
@@ -23094,6 +23109,7 @@ dynamo
 đồ lạc-xon
 đồ lề
 đồ lễ
+đồ lót
 đồ mã
 đồ mắc dịch
 đồ mi
@@ -24606,7 +24622,6 @@ dynamo
 đứt ruột đứt gan
 đứt tay hay thuốc
 đứt thở
-e,E
 e
 e ấp
 e-bo-nít
@@ -24872,7 +24887,6 @@ euro
 êu
 êu êu
 êu ôi
-f, F
 f
 F 
 F
@@ -24931,7 +24945,6 @@ fu-la
 fuốc-sét
 fut
 fuy
-g,G
 g
 ga
 ga-ba-đin
@@ -27351,6 +27364,7 @@ gò hàn
 gò má
 gò mộ
 gò tóp
+Gò Vấp
 gõ
 gõ cửa
 gõ đầu trẻ
@@ -27715,7 +27729,6 @@ gượng gạo
 gượng gùng
 gượng nhẹ
 H'mông
-h,H
 h
 H
 ha
@@ -27885,6 +27898,7 @@ hạch xoài
 hai
 hai bàn tay trắng
 hai chấm
+hai dây
 hai lá mầm
 hai lòng
 hai mang
@@ -28989,6 +29003,7 @@ hi hí
 hi hút
 hi hữu
 hi-la
+Hi Lạp
 hi lạp hóa
 hi-pe-bon
 hi-pe-bôn
@@ -29890,7 +29905,7 @@ Hoàng Lê nhất thống chí
 hoàng liên
 Hoàng Lục
 hoàng lương
-hoàng mai
+Hoàng Mai
 hoàng oanh
 hoàng phái
 hoàng phi
@@ -30572,6 +30587,7 @@ hồng ân
 hồng bạch
 hồng bảo
 hồng bì
+Hồng Bàng
 hồng cầu
 hồng chủng
 hồng chuyên
@@ -31428,6 +31444,7 @@ hữu xạ tự nhiên hương
 hữu ý
 hy-đrô
 hy hữu
+Hy Lạp
 hy sinh
 hy vọng
 hỷ
@@ -31440,7 +31457,6 @@ hydroxid
 hypebol
 Hz
 Hz.
-i,I
 i
 I
 i ỉ
@@ -31646,7 +31662,6 @@ iu ỉu
 ỉu xìu
 ỉu xìu xìu
 ỉu xịu
-j,J
 J
 ja-két
 ja-ven
@@ -31657,7 +31672,6 @@ jin
 jíp
 ju-đô
 jun
-k, K
 k
 K 
 Ka Beo
@@ -33409,10 +33423,8 @@ khôn thiêng
 khôn từ trong trứng khôn ra
 khôn văn tế dại văn bia
 khôn xiết
-khôn2
 khổn hạnh
 khổn phạm
-khôn3
 khốn
 khốn (một) nỗi
 khốn cùng
@@ -34718,7 +34730,6 @@ kỵ khí
 kỵ mã
 kỵ sĩ
 kyat
-l,L
 l
 L
 la
@@ -36177,6 +36188,7 @@ lếch thếch
 lệch
 lệch lạc
 lệch pha
+lệch tà
 lệch tâm
 lệch trục
 lên
@@ -38234,6 +38246,7 @@ lý sự
 lý sự cùn
 lý tài
 lý thú
+Lý Thường Kiệt
 lý thuyết
 lý tính
 lý trí
@@ -38243,7 +38256,6 @@ lý tưởng hóa
 lỵ
 lỵ sở
 M'nông
-m,M
 m
 M
 M-48
@@ -38420,6 +38432,7 @@ mác xít
 mác-xít lê-nin-nít
 mạc
 Mạc
+Mạc Đĩnh Chi
 mạc-cờ-rô
 mạc-ga-rít
 mạc nối
@@ -40042,6 +40055,10 @@ miền gió trăng
 miền Nam
 miền nguyệt hoa
 miền ngược
+miền tây
+miền đông
+miền nam
+miền trung
 miền trung
 miền xuôi
 miễn
@@ -41472,11 +41489,11 @@ mỹ nghệ
 mỹ nhân
 mỹ nữ
 mỹ quan
+Mỹ Tho
 mỹ thuật
 mỹ tục
 mỹ vị
 mỹ ý
-n,N
 n
 N 
 N
@@ -43506,6 +43523,7 @@ ngô nếp
 ngô nghê
 ngô ngọng
 ngô ngố
+Ngô Quyền
 ngồ ngộ
 ngổ
 ngổ ngáo
@@ -47712,7 +47730,6 @@ nứt ruột
 nứt toác
 Nxb
 nylon
-o,O
 o
 O
 o bế
@@ -48278,6 +48295,7 @@ ozon
 ống kính
 ống lao
 ống lệnh
+ống loe
 ống lông
 ống lồng
 ống máng
@@ -48443,7 +48461,6 @@ ozon
 ớt sừng bò
 ớt tây
 ợt
-p,P
 p
 P
 pa
@@ -48637,7 +48654,6 @@ phải cái
 phải cái dại rái đến già
 phải cái tội
 phải chăng
-phải chăng2 
 phải chi
 phải cung sợ làn cây cong
 phải dấu
@@ -48715,6 +48731,7 @@ phạm huý
 phạm húy
 phạm lỗi
 phạm luật
+Phạm Ngũ Lão
 phạm nhân
 phạm-nhe
 phạm pháp
@@ -48725,6 +48742,8 @@ phạm thượng
 phạm tội
 phạm trù
 phạm vi
+phan đình phùng
+phan huy ích
 phàn nàn
 phản
 phản ảnh
@@ -49798,7 +49817,6 @@ phong vận
 phong vị
 phong vũ
 phong vũ biểu
-phòng
 phòng ăn
 phòng bệnh
 phòng bị
@@ -50177,6 +50195,7 @@ phú quí sinh lễ nghĩa
 phú quý
 phú quý giật lùi
 phú quý sinh lễ nghĩa
+phú thọ
 phú thương
 phú tính
 phú túc
@@ -50569,7 +50588,6 @@ Puộc
 puy-lơ-ve
 pyjama
 pyrit
-q,Q
 q
 Q
 QS
@@ -52175,7 +52193,6 @@ quýt
 quýt làm cam chịu
 quỵt
 quýu
-r,R
 r
 ra
 Ra
@@ -53714,7 +53731,6 @@ rượu vang
 rượu vào lời ra
 rứt
 rứt ruột
-s,S
 s
 S
 S.O.S.
@@ -54650,6 +54666,8 @@ sẹo
 sẹo gỗ
 sẹp
 serenata
+set
+set đồ
 sét
 sét đánh lưng trời
 sét đánh ngang tai
@@ -55359,6 +55377,7 @@ Sông Hiên
 Sông Hinh
 sông hoắm không chết, chết vũng trâu đầm
 Sông Khoai
+Sông Khoai 2
 Sông Kôn
 Sông Lô
 sông lở cát bồi
@@ -56328,7 +56347,6 @@ sửu
 Sỹ Bình
 symposium
 syndicat
-t,T
 t
 T
 T.B
@@ -57085,6 +57103,7 @@ tay chèo tay chống
 tay chèo tay lái
 tay chơi
 tay co
+tay dài
 tay dao tay thớt
 tay đã nhúng chàm
 tay đẫy
@@ -57758,6 +57777,7 @@ tậu
 tây
 Tây An
 tây bán cầu
+Tây Ban Nha
 tây bắc
 Tây Bình
 Tây Cốc
@@ -62092,6 +62112,9 @@ thường dụng
 thường khi
 thường kì
 Thường Kiệt
+Trường Minh Thịnh
+TMT-Solutions
+Ivy Moda
 Thường Lạc
 thường lệ
 Thường Nga
@@ -64348,6 +64371,9 @@ tơrơt
 tơrưng
 tớt
 TP
+TPHCM
+TP.HCM
+TP HCM
 Tr' Hy
 tr
 tr. CN
@@ -64995,6 +65021,7 @@ Trần Quang Khải
 Trần Quang Triều
 Trần Quĩ
 Trần Quốc Khang
+Trần Quốc Thảo
 Trần Quốc Toản
 Trần Quốc Tuấn
 Trần Quý Khoáng
@@ -65027,6 +65054,7 @@ Trần Tung
 Trần ửng Long
 Trần Văn Cận
 Trần Văn Cung
+Trần Văn Đang
 Trần Văn Giáp
 Trần Văn Giàu
 Trần Văn Kỷ
@@ -65959,6 +65987,7 @@ trơn như cháo chảy
 trơn như đổ mỡ
 trơn trợt
 trơn tru
+trơn trượt
 trơn tuột
 trờn
 trờn trợn
@@ -68002,7 +68031,6 @@ tý
 tỵ
 tỵ tổ
 typo
-u,U
 u
 u
 U
@@ -68538,7 +68566,6 @@ uýt-xki
 ưu tư
 ưu việt
 ưu việt
-v,V
 v
 V
 v.v.
@@ -70245,6 +70272,8 @@ vitamin
 vitcô
 víu
 vixcô
+VN
+VNĐ
 vo
 Vo Ngại
 vo tròn bóp bẹp
@@ -71590,7 +71619,6 @@ xả thân
 xả thân cứu thế
 xả thân thủ nghĩa
 xã
-xã
 xã đoàn
 xã đội
 xã đội phó
@@ -71747,6 +71775,7 @@ xanh
 xanh
 xanh biếc
 xanh biếc
+xanh biển
 xanh bủng
 xanh bủng xanh beo
 xanh chảo
@@ -71761,6 +71790,7 @@ xanh hoa lí
 xanh hoà bình
 xanh hồ thủy
 xanh hồ thuỷ
+xanh lá
 xanh lá cây
 xanh lá cây
 xanh lá mạ
@@ -72147,6 +72177,7 @@ xẻ dọc
 xẻ nghé tan đàn
 xẻ núi lấp sông
 xẻ núi ngăn sông
+xẻ tà
 xẻ ván bán thuyền
 xé
 xé
@@ -72306,7 +72337,9 @@ xếp đống
 xếp hàng
 xếp hàng
 xếp hạng
+xếp li
 xếp loại
+xếp ly
 xếp nếp
 xếp xó
 xệp
@@ -73489,7 +73522,6 @@ xướng tuỳ
 xướng xuất
 xượt
 Xy
-y, Y
 y
 y
 Y
@@ -73887,7 +73919,7 @@ yoga
 yô yô
 yôga
 yuan
-z, Z
+Z
 z
 Za Hung
 zero
@@ -73899,3 +73931,8 @@ ziczac
 zloty
 Zn
 Zuoih
+Vintage Blue
+Red Eagle
+Magents
+Crysral
+Blue Lady

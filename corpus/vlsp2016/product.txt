@@ -1,0 +1,4552 @@
+Tuyền	Np	B-PER
+,	CH	O
+341-343	M	B-LOC
+,	CH	O
+Điện Biên Phủ	Np	B-LOC
+,	CH	O
+phường	N	B-LOC
+15	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Bình Thạnh	Np	I-LOC
+,	CH	O
+Hồ Chí Minh	Np	I-LOC
+
+Trúc	Np	B-PER
+Anh	Np	I-PER
+,	CH	O
+lò	N	B-LOC
+bánh tráng	N	I-LOC
+Năm Tuấn	Np	I-LOC
+,	CH	O
+Phước Hiệp	Np	B-LOC
+,	CH	O
+Gia Bình	Np	B-LOC
+,	CH	B-LOC
+Trảng Bàng	Np	B-LOC
+,	CH	O
+Tây Ninh	Np	B-LOC
+Nguyễn Trang	Np	B-PER
+,	CH	O
+khu	N	B-LOC
+5	M	I-LOC
+,	CH	O
+Vân Phú	Np	B-LOC
+,	CH	I-LOC
+Việt Trì	Np	B-LOC
+,	CH	O
+Phú Thọ	Np	B-LOC
+
+Nguyễn Thị Hạt	Np	B-PER
+,	CH	O
+khu	N	B-LOC
+Bồ Sơn	Np	I-LOC
+-	CH	O
+Võ Cường	Ny	B-LOC
+-	CH	O
+thành phố	N	B-LOC
+Bắc Ninh	Np	I-LOC
+shop	Nc	O
+cho	E	O
+mình	P	O
+set	V	O
+này	P	O
+size	N	B-SIZE
+L	Np	I-SIZE
+đến	E	O
+toà	N	B-LOC
+Vòng	Np	I-LOC
+1	M	I-LOC
+,	CH	O
+Victoria	Np	B-LOC
+,	CH	O
+khu	N	B-LOC
+đô thị	N	I-LOC
+Văn Phú	Np	I-LOC
+-	CH	O
+Hà Đông	Ny	B-LOC
+-	CH	O
+Hà Nội	Np	B-LOC
+nhé	T	O
+
+Nguyễn Thị Hà Ly	Np	B-PER
+,	CH	O
+288	M	B-LOC
+Hùng Vương	Np	I-LOC
+,	CH	O
+Ngãi Giao	Np	B-LOC
+,	CH	B-LOC
+Châu Đức	Np	I-LOC
+,	CH	O
+Bà Rịa	Np	B-LOC
+Vũng Tàu	Np	I-LOC
+mà	C	O
+em	N	O
+ở	V	O
+trên	E	O
+Long An	Np	B-LOC
+nhen	V	O
+chị	Nc	O
+Mộc Hoa	Np	B-PER
+ạ	T	O
+
+Trần Thị Kim Quyên	Np	B-PER
+số	N	O
+nhà	N	B-LOC
+18	M	I-LOC
+,	CH	O
+ấp	N	B-LOC
+1	M	I-LOC
+Tân Hào	Np	B-LOC
+,	CH	O
+Giồng Trôm	Np	B-LOC
+,	CH	O
+Bến Tre	Np	B-LOC
+Nguyễn Thu Phương	Np	B-PER
+,	CH	O
+29	M	B-LOC
+Liễu Giai	Np	B-LOC
+,	CH	O
+Ba Đình	Np	B-LOC
+,	CH	O
+Hà Nội	Np	B-LOC
+
+111	M	B-LOC
+-	CH	O
+tổ	N	B-LOC
+04	M	I-LOC
+-	CH	O
+Vĩnh Thạnh B	Np	B-LOC
+-	CH	O
+Vĩnh Hoà	Ny	B-LOC
+-	CH	O
+Tân Châu	Ny	B-LOC
+-	CH	O
+An Giang	Ny	B-LOC
+bida	N	B-LOC
+779	N	I-LOC
+,	CH	O
+Thái	Np	B-PER
+Sinh Hạnh	Np	I-PER
+,	CH	O
+phường	N	B-LOC
+9	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+
+Hạ	Np	B-PER
+Cúc	Np	I-PER
+,	CH	O
+văn phòng	N	B-LOC
+tuyển dụng	N	I-LOC
+SHT Vina Đa Cấu	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+Nam Sơn	Np	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Bắc Ninh	Np	I-LOC
+Cao Thị Thu Nga	Np	B-PER
+,	CH	O
+trường	N	B-LOC
+mẫu giáo	N	I-LOC
+Bình Đông	Np	I-LOC
+,	CH	O
+ấp	N	B-LOC
+Thừa Trung	Np	I-LOC
+,	CH	O
+xã	N	B-LOC
+Thừa Đức	Np	I-LOC
+,	CH	O
+huyện	N	B-LOC
+Bình Đại	Np	I-LOC
+,	CH	O
+tỉnh	N	B-LOC
+Bến Tre	Np	I-LOC
+
+chị	Nc	O
+cái	Nc	O
+áo	N	B-ITEM
+lẻ	A	O
+tay dài	N	B-ITEM
+,	CH	O
+vải	N	B-MATERIAL
+dệt	V	I-MATERIAL
+tay	N	O
+,	CH	O
+vải	N	B-MATERIAL
+bằng	E	O
+voan	N	B-MATERIAL
+màu	N	B-COL
+nâu	A	I-COL
+mà	C	O
+giá	N	O
+135k	A	O
+mà	C	O
+đặt	V	O
+gởi	V	O
+về	E	O
+bị	V	O
+thiếu	V	O
+,	CH	O
+nếu	C	O
+mà	C	O
+còn	V	O
+thì	C	O
+gởi	V	O
+về	V	O
+liền	R	O
+cho	E	O
+em	N	O
+,	CH	O
+em	N	O
+sẽ	R	O
+tính	V	O
+ship	A	O
+không	R	O
+sao	T	O
+cả	T	O
+còn	R	O
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+không	R	O
+ạ	I	O
+còn	R	O
+thì	C	O
+lấy	V	O
+em	Nc	O
+túi	N	I-ITEM
+trắng	A	B-COL
+
+set	N	B-ITEM
+váy	N	I-ITEM
+và	C	O
+áo	N	I-ITEM
+da	N	B-COL
+đậm	A	I-COL
+như	C	O
+hình	N	O
+nha	I	O
+chị	Nc	O
+
+set	N	B-ITEM
+vet	N	I-ITEM
+đen	A	B-COL
+gồm	V	O
+4	M	B-ITEM
+món	N	I-ITEM
+còn	R	O
+hàng	N	O
+không	R	O
+shop	Nc	O
+
+em	N	O
+không	R	O
+kịp	A	O
+coi	V	O
+live	A	O
+lúc	N	O
+trưa	N	O
+,	CH	O
+set	N	B-ITEM
+màu	N	B-COL
+nâu	A	I-COL
+175	A	O
+còn	R	O
+không	R	O
+shop	Nc	O
+
+cho	E	O
+hỏi	V	O
+cái	Nc	O
+váy	N	B-ITEM
+vàng	N	B-COL
+đầu	N	O
+live	N	O
+còn	R	O
+không	R	O
+à	T	O
+
+đầm	N	B-ITEM
+tay dài	N	B-ITEM
+nhúng	N	I-ITEM
+màu	N	B-COL
+nâu	A	I-COL
+hồi	N	O
+chiều	N	O
+live	N	O
+bị	V	O
+văng	V	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+nếu	C	O
+còn	R	O
+cho	V	O
+e	V	O
+đặt	V	O
+mỗi	L	O
+mẫu	N	B-ITEM
+1	M	O
+sản phẩm	N	O
+size	N	B-SIZE
+S	Np	I-SIZE
+ạ	T	O
+
+Không	R	O
+biết	V	O
+shop	Nc	O
+còn	R	O
+áo	N	B-ITEM
+đỏ	A	B-COL
+này	P	O
+không	R	O
+còn	R	O
+
+jumpsuit	N	B-ITEM
+gân	N	O
+nude	A	B-COL
+lúc	N	O
+trưa	N	O
+không	R	O
+bé	N	O
+
+áo	N	B-ITEM
+hồng	N	B-COL
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+nếu	C	O
+còn	V	O
+chốt	V	O
+cho	E	O
+mình	P	O
+1	M	O
+áo	N	B-ITEM
+đen	A	B-COL
+và	C	O
+1	M	O
+quần	N	B-ITEM
+đen	A	I-COL
+này	P	O
+size	N	B-SIZE
+29	M	I-SIZE
+nhé	T	O
+
+áo	N	B-ITEM
+đen	A	B-COL
+và	C	O
+quần	N	B-ITEM
+size	N	B-SIZE
+30	M	I-SIZE
+còn	R	O
+hàng	n	O
+ạ	T	O
+
+còn	R	O
+hàng	N	O
+đầm	N	B-ITEM
+đỏ	A	B-COL
+đô	A	I-COL
+không	R	O
+ạ	T	O
+
+áo	N	B-ITEM
+này	P	O
+nè	T	O
+em	N	O
+còn	R	O
+không	R	O
+gửi	V	O
+chị	Nc	O
+1	M	O
+áo	N	B-ITEM
+gửi	V	O
+địa chỉ	N	B-LOC
+71/1	M	I-LOC
+Nguyễn Phúc Chu	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+15	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+Tân Bình	Np	I-LOC
+còn	R	O
+
+set	N	B-ITEM
+đen	A	B-COL
+này	P	O
+không	R	O
+Hằng	Np	B-PER
+ơi	I	O
+,	CH	O
+gửi	V	O
+cho	E	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+
+cho	E	O
+mình	P	O
+xin	V	O
+hình	N	O
+túi	N	B-ITEM
+màu da	N	B-COL
+à	T	O
+còn	C	O
+không	R	O
+cho	V	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+M	Np	B-SIZE
+
+mình	P	O
+có	V	O
+đơn	N	O
+váy	N	B-ITEM
+215k	N	O
+và	C	O
+mã	N	B-ITEM
+54	M	I-ITEM
+tối qua	N	O
+còn	R	O
+váy	V	B-ITEM
+xanh	A	B-COL
+nếu	C	O
+còn	V	O
+hàng	N	O
+thì	C	O
+gửi	V	O
+luôn	R	O
+cho	E	O
+mình	P	O
+
+quần	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+size	N	B-SIZE
+L	Ny	I-SIZE
+với	E	O
+shop	Nc	O
+
+mình	P	O
+còn	R	O
+set	N	B-ITEM
+yếm	N	I-ITEM
+jean	N	B-MATERIAL
+,	CH	O
+tay dài	N	B-ITEM
+màu	N	B-COL
+trắng	A	I-COL
+không	R	O
+chị	Nc	O
+nhỉ	T	O
+
+Hằng	Np	B-PER
+ơi	I	O
+hôm qua	N	O
+chị	Nc	O
+xem	V	O
+live	V	O
+mấy	L	O
+hết	V	O
+pin	N	O
+không	R	O
+đặt	V	O
+được	V	O
+bộ	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+nha	I	O
+
+set	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+Hằng	Np	B-PER
+ơi	I	O
+cho	E	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+đi	V	O
+chung	V	O
+đơn	N	O
+nếu	C	O
+còn	V	O
+mẫu	N	B-ITEM
+đầm	N	I-ITEM
+đỏ	A	B-COL
+cho	V	O
+thêm	V	O
+vào	E	O
+cho	E	O
+mình	P	O
+nhé	T	O
+
+Hằng	Np	B-PER
+ơi	I	O
+cái	T	O
+đầm	N	B-ITEM
+215k	N	O
+còn	R	O
+không	R	O
+mình	P	O
+lấy	V	O
+một	M	O
+cái	N	O
+mẫu	N	B-ITEM
+3	M	I-ITEM
+có	V	O
+màu	N	B-COL
+đỏ	A	I-COL
+không	R	O
+em	N	O
+
+em	N	O
+ơi	I	O
+áo	N	B-ITEM
+beo	N	B-COL
+đậm	A	I-COL
+còn	R	O
+không	R	O
+váy	N	B-ITEM
+đầu tiên	A	O
+nhưng	C	O
+nâu	V	B-COL
+hết	T	O
+hả	T	O
+chị	Nc	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+giao	V	O
+cho	E	O
+e	V	O
+set	N	I-ITEM
+nhá	T	O
+117/9	N	B-LOC
+Lý Nam Đế	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+7	M	I-LOC
+,	CH	O
+quận	N	B-LOC
+11	M	I-LOC
+shop	Nc	O
+ơi	I	O
+em	N	O
+xem	V	O
+live	N	O
+không	R	O
+kịp	A	O
+shop	Nc	O
+còn	R	O
+hai	M	O
+mẫu	N	B-ITEM
+này	P	O
+không	R	O
+ạ	I	O
+
+áo	N	I-ITEM
+đen	A	B-COL
+và	C	O
+đỏ	A	B-COL
+
+em	N	O
+ơi	I	O
+màu	N	B-COL
+xanh	A	I-COL
+lúc	N	O
+chiều	N	O
+live	M	O
+195k	N	O
+còn	R	O
+không	R	O
+
+để	V	O
+chị	Nc	O
+cái	Nc	O
+gởi	N	O
+chung	A	O
+với	E	O
+áo sơ mi	N	B-ITEM
+99k	N	O
+dùm	V	O
+chị	Nc	O
+
+cảm ơn	V	O
+em	N	O
+
+còn	R	O
+thì	C	O
+ship	V	O
+em	N	O
+1	M	O
+set	N	B-ITEM
+địa chỉ	N	O
+cũ	A	O
+nhé	T	O
+
+size	N	B-SIZE
+S	Np	I-SIZE
+ạ	T	O
+
+còn	R	O
+set	N	B-ITEM
+nâu	A	B-COL
+thì	C	O
+chị	Nc	O
+để	E	O
+giúp	V	O
+em	N	O
+1	M	O
+set	N	B-ITEM
+với	E	O
+ạ	T	O
+
+chị	Nc	O
+Hằng	Np	B-PER
+ơi	I	O
+đầm	N	B-ITEM
+rêu	V	B-COL
+hồi	N	O
+hôm	N	O
+chị	Nc	O
+live	V	O
+còn	R	O
+không	R	O
+vậy	T	O
+chị	Nc	O
+
+bán	V	O
+cho	E	O
+em	N	O
+1	M	O
+cái	T	O
+,	CH	O
+em	N	O
+đặt	V	O
+hồi	N	O
+trên	E	O
+live	N	O
+mà	C	O
+mua	V	O
+không	R	O
+được	V	O
+chị	Nc	O
+ơi	I	O
+
+shop	Nc	O
+ơi	I	O
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+bao nhiêu	P	O
+và	C	O
+có	V	O
+màu	N	B-COL
+gì	P	O
+vậy shop	A	O
+
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+có	V	O
+màu	N	B-COL
+gì	P	O
+và	C	O
+size	N	B-SIZE
+gì	P	O
+ạ	T	O
+
+đầm	N	B-ITEM
+vàng	N	B-COL
+còn	R	O
+không	R	O
+chị	Nc	O
+
+còn	R	O
+để	E	O
+chị	Nc	O
+set	N	B-ITEM
+xanh	A	B-COL
+
+shop	Nc	O
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+nữa	R	O
+không	R	O
+ạ	I	O
+khối	N	B-LOC
+5	M	I-LOC
+,	CH	O
+phường	N	B-LOC
+Nghi Thủy	Np	I-LOC
+,	CH	O
+thị xã	N	B-LOC
+Cửa Lò	Np	I-LOC
+,	CH	O
+Nghệ An	Np	B-LOC
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+gửi	V	O
+chị	Nc	O
+size	N	B-SIZE
+L	Ny	I-SIZE
+với	E	O
+Hằng	Np	B-PER
+ơi	I	O
+
+váy	N	B-ITEM
+vàng	N	B-COL
+bao nhiêu	P	O
+ạ	T	O
+
+cái	Nc	O
+đầm	N	B-ITEM
+nâu	A	B-COL
+189k	N	O
+còn	R	O
+không	R	O
+mà	C	O
+sao	P	O
+không	R	O
+nhắn	V	O
+áo len	N	B-ITEM
+xanh	A	B-COL
+chiều	N	O
+còn	R	O
+không	R	O
+chị	Nc	O
+
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+không	R	O
+shop	Nc	O
+nếu	C	O
+dư	A	O
+để	E	O
+mình	P	O
+1	M	O
+cái	T	O
+(	CH	O
+Thu	Np	B-PER
+)	CH	O
+..	M	O
+
+set	N	B-ITEM
+vàng	N	B-COL
+bao nhiêu	P	O
+ạ	T	O
+set	N	B-ITEM
+trắng	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+em	N	O
+
+shop	Nc	O
+ơi	I	O
+quần	N	B-ITEM
+đen	A	B-COL
+size	N	B-SIZE
+L	Ny	I-SIZE
+với	E	O
+set	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+vậy	V	O
+nếu	C	O
+còn	V	O
+lấy	V	O
+cho	E	O
+mình	P	O
+mẫu	N	B-ITEM
+này	P	O
+màu da	N	B-COL
+hay	C	O
+màu	N	B-COL
+bơ	N	O
+cũng	R	O
+được	R	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+ạ	T	O
+,	CH	O
+để	E	O
+em	N	O
+đặt	V	O
+đi	V	O
+đơn	N	O
+chung	A	O
+với	E	O
+bộ	N	B-ITEM
+caro	N	I-ITEM
+đen	A	B-COL
+ạ	T	O
+
+đầm	N	B-ITEM
+hoa	N	I-ITEM
+còn	R	O
+không	R	O
+shop	Nc	O
+
+cho	E	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+màu da	N	B-COL
+hoặc	C	O
+màu	N	B-COL
+bơ	N	I-COL
+,	CH	O
+58kg	N	O
+vừa	R	O
+không	R	O
+em	N	O
+?	CH	O
+
+set	N	B-ITEM
+hồng	N	B-COL
+cuối	N	O
+live	N	O
+235k	N	O
+còn	R	O
+không	R	O
+em	N	O
+?	CH	O
+
+đầm	N	B-ITEM
+hồng	N	B-COL
+235k	N	O
+còn	R	O
+không	R	O
+em	N	O
+?	CH	O
+còn	R	O
+set	N	B-ITEM
+da	A	B-COL
+đậm	A	I-COL
+không	R	O
+bạn	N	O
+
+cả	T	O
+2	M	O
+set	N	B-ITEM
+đều	R	O
+còn	V	O
+màu	N	B-COL
+như	C	O
+hình	N	O
+không	R	O
+ạ	I	O
+em	N	O
+đặt	V	O
+trên	E	O
+live	N	O
+cái	Nc	O
+túi	N	B-ITEM
+màu da	V	B-COL
+rồi	C	O
+
+shop	Nc	O
+còn	R	O
+áo	N	B-ITEM
+này	P	O
+không	R	O
+đi	V	O
+đơn	N	O
+chung	A	O
+nha	I	O
+
+set	N	B-ITEM
+xanh	A	B-COL
+còn	R	O
+không	R	O
+shop	Nc	O
+nếu	C	O
+còn	R	O
+chị	Nc	O
+này	P	O
+cho	V	O
+đi	V	O
+đơn	N	O
+luôn	R	O
+hôm qua	N	O
+chị	Nc	O
+đặt	V	O
+cái	Nc	O
+đầm	N	B-ITEM
+đỏ	A	B-COL
+189k	A	O
+đó	P	O
+
+em	Nc	O
+quần jean	N	B-ITEM
+185k	N	O
+chiều	N	O
+nay	P	O
+em	Nc	O
+live	N	O
+còn	R	O
+không	R	O
+
+tại	E	O
+chị	Nc	O
+đi	V	O
+làm	V	O
+không	R	O
+có	V	O
+thời gian	N	O
+xem	V	O
+live	V	O
+được	R	O
+
+còn	R	O
+đầm	N	B-ITEM
+dập li	A	I-ITEM
+195k	V	O
+với	E	O
+set	N	B-ITEM
+hồng	N	B-COL
+215k	N	O
+còn	R	O
+không	R	O
+em	N	O
+
+chị	Nc	O
+mới	R	O
+biết	V	O
+trang	N	O
+em	N	O
+vô	R	O
+xem	V	O
+thấy	V	O
+đồ	N	O
+đẹp	A	O
+cho	E	O
+chị	Nc	O
+hỏi	V	O
+
+chị	Nc	O
+đầm	N	B-ITEM
+dập li	A	I-ITEM
+nude	A	B-COL
+hôm qua	N	O
+em	N	O
+live	V	O
+195k	V	O
+với	E	O
+set	N	I-ITEM
+hồng	N	I-COL
+215k	N	O
+còn	R	O
+không	R	O
+
+chị	Nc	O
+muốn	V	O
+mua	V	O
+mẫu	N	B-ITEM
+này	P	O
+nếu	C	O
+con	N	O
+gửi	V	O
+cho	E	O
+chị	Nc	O
+nha	I	O
+,	CH	O
+168/5	N	B-LOC
+dọc	A	O
+mỏ	N	B-LOC
+Gia Tân	Np	I-LOC
+1	M	O
+,	CH	O
+Thống Nhất	Np	B-LOC
+,	CH	O
+Đồng Nai	Np	B-LOC
+,	CH	B-LOC
+Chính Phẩm	Np	I-LOC
+
+Set	Np	B-ITEM
+vàng	N	B-COL
+nhiêu	A	O
+em	N	O
+
+3	M	O
+đầm	N	B-ITEM
+hồng	N	B-COL
+còn	R	O
+không	R	O
+em	N	O
+2	M	O
+đầm	N	B-ITEM
+nâu	A	B-COL
+ạ	I	O
+?	CH	O
+giá	N	O
+nhiêu	A	O
+ạ	I	O
+?	CH	O
+
+đầm	N	B-ITEM
+xanh	A	B-COL
+và	C	O
+nâu	A	B-COL
+còn	R	O
+không	R	O
+ạ	I	O
+?	CH	O
+set	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+nếu	C	O
+còn	R	O
+dồn	V	O
+đơn	N	O
+tối	N	O
+với	E	O
+áo len	N	B-ITEM
+trắng	A	B-COL
+cho	E	O
+em	N	O
+luôn	R	O
+ạ	T	O
+
+công việc	N	O
+này	P	O
+còn	R	O
+màu	N	B-COL
+đen	A	I-COL
+size	N	B-SIZE
+L	Ny	I-SIZE
+không	R	O
+cho	E	O
+chị	Nc	O
+váy	V	B-ITEM
+gấm	N	B-COL
+đỏ	A	I-COL
+size	N	B-SIZE
+M	Np	I-SIZE
+chị	Nc	O
+mặc	V	O
+không	R	O
+vừa	R	O
+
+nếu	C	O
+còn	V	O
+sót	V	O
+mẫu	N	B-ITEM
+này	P	O
+thì	C	O
+cho	V	O
+thêm	V	O
+chị	Nc	O
+,	CH	O
+không	R	O
+thì	C	O
+đi	V	O
+1	M	O
+cái	Nc	O
+vàng	N	B-COL
+gấm	A	I-COL
+nha	I	O
+
+đầm	N	B-ITEM
+đen	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+
+quần	N	B-ITEM
+này	P	O
+mình	P	O
+còn	R	O
+2	M	O
+cái	Nc	O
+size	N	B-SIZE
+S	Np	I-SIZE
+không	R	O
+ạ	I	O
+
+chị	Nc	O
+ơi	I	O
+shop	Nc	O
+mình	P	O
+còn	R	O
+áo khoác	V	B-ITEM
+màu	N	B-COL
+xanh	A	I-COL
+và	C	O
+nude	A	B-COL
+không	R	O
+ạ	I	O
+
+set	N	B-ITEM
+hồng	N	B-COL
+này	P	O
+còn	R	O
+không	R	O
+chị	Nc	O
+còn	R	O
+không	R	O
+để	V	O
+cho	E	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+nha	I	O
+
+bên	N	O
+mình	P	O
+còn	R	O
+set	N	B-ITEM
+này	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+không	R	O
+và	C	O
+còn	R	O
+set	N	B-ITEM
+trắng	A	B-COL
+không	R	O
+?	CH	O
+
+còn	R	O
+set	N	B-ITEM
+xanh	A	B-COL
+này	P	O
+không	R	O
+em	N	O
+ơi	I	O
+còn	R	O
+váy	V	B-ITEM
+xanh	A	B-COL
+không	R	O
+em	N	O
+ơi	I	O
+
+còn	R	O
+áo	N	B-ITEM
+xanh	A	B-COL
+không	R	O
+em	N	O
+ơi	I	O
+
+còn	R	O
+áo	N	B-ITEM
+chấm bi	V	I-ITEM
+bi	N	O
+đen	A	B-COL
+không	R	O
+nàng	N	O
+ơi	I	O
+
+áo sơ mi	N	B-ITEM
+trắng	A	B-COL
+,	CH	O
+còn	R	O
+không	R	O
+ạ	I	O
+váy	N	B-ITEM
+này	P	O
+còn	R	O
+size	N	B-SIZE
+S	Np	I-SIZE
+không	R	O
+ạ	I	O
+?	CH	O
+
+dồn	V	O
+đơn	N	O
+với	E	O
+túi xách	N	B-ITEM
+đen	A	B-COL
+giúp	V	O
+mình	P	O
+luôn	R	O
+ạ	T	O
+nếu	C	O
+còn	R	O
+ship	V	O
+chung	A	O
+với	E	O
+set	N	B-ITEM
+beo	N	B-COL
+159k	V	O
+chị	Nc	O
+vừa	R	O
+đặt	V	O
+trên	E	O
+livestream	N	O
+
+chị	Nc	O
+vừa	R	O
+xem	V	O
+live	N	O
+bên	N	O
+em	N	O
+phát	V	O
+lại	R	O
+có	V	O
+set	N	B-ITEM
+3	M	I-ITEM
+món	N	I-ITEM
+màu	N	B-COL
+nâu	A	I-COL
+225k	A	O
+còn	R	O
+không	R	O
+em	N	O
+cho	E	O
+chị	Nc	O
+lấy	V	O
+1	M	O
+set	N	B-ITEM
+shop	Nc	O
+ơi	I	O
+đầm	N	B-ITEM
+này	P	O
+còn	R	O
+màu	N	B-COL
+nào	P	O
+thì	C	O
+ship	V	O
+em	N	O
+1	M	O
+cái	T	O
+với	E	O
+ạ	T	O
+
+quần	N	B-ITEM
+này	P	O
+mình	P	O
+còn	R	O
+2	M	O
+cái	Nc	O
+size	N	B-SIZE
+S	Np	I-SIZE
+không	R	O
+ạ	I	O
+
+chị	Nc	O
+ơi	I	O
+shop	N	O
+mình	P	O
+còn	R	O
+áo khoác	V	B-ITEM
+màu	N	B-COL
+xanh	A	I-COL
+và	C	O
+mà	C	O
+nude	A	I-COL
+không	R	O
+ạ	I	O
+
+mẫu	N	B-ITEM
+này	P	O
+trưa	N	O
+hôm qua	N	O
+2	M	O
+giờ	Nu	O
+có	V	O
+live	N	O
+cho	E	O
+em	N	O
+hỏi	V	O
+còn	R	O
+L	Ny	B-SIZE
+ạ	T	O
+set	N	B-ITEM
+hồng	N	B-COL
+này	P	O
+còn	R	O
+không	R	O
+chị	Nc	O
+
+còn	R	O
+không	R	O
+để	V	O
+cho	E	O
+chị	Nc	O
+1	M	O
+set	N	B-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+nha	I	O
+
+shop	Nc	O
+xem	V	O
+còn	R	O
+hàng	N	O
+thì	C	O
+cho	E	O
+mình	P	O
+lấy	V	O
+cái	Nc	O
+này	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+
+và	C	O
+còn	R	O
+set	N	B-ITEM
+trắng	A	B-COL
+không	R	O
+?	CH	O
+2	M	O
+bộ	N	B-ITEM
+em	N	O
+lấy	R	O
+có	V	O
+size	N	B-SIZE
+không	R	O
+chị	Nc	O
+
+còn	R	O
+set	N	B-ITEM
+xanh	A	B-COL
+này	P	O
+không	R	O
+em	N	O
+ơi	I	O
+
+còn	R	O
+váy	V	B-ITEM
+xanh	A	B-COL
+không	R	O
+em	N	O
+ơi	I	O
+
+những	L	O
+mẫu	N	B-ITEM
+váy	N	I-ITEM
+này	P	O
+có	V	O
+size	N	B-SIZE
+không	R	O
+?	CH	O
+mình	P	O
+cao	A	O
+1m53	N	O
+nặng	A	O
+45kg	V	O
+đầm	N	B-ITEM
+vàng	N	B-COL
+còn	R	O
+không	R	O
+bạn	N	O
+
+shop	Nc	O
+cho	E	O
+mình	P	O
+giá	N	O
+váy	N	B-ITEM
+này	P	O
+với	E	O
+túi	N	B-ITEM
+mini	N	B-SIZE
+nữa	R	O
+
+đầm	N	B-ITEM
+còn	R	O
+không	R	O
+hay	C	O
+còn	R	O
+1	M	O
+set	N	B-ITEM
+vàng	N	B-COL
+
+túi	N	B-ITEM
+trắng	A	B-COL
+to	A	O
+và	C	O
+túi	N	B-ITEM
+đen	A	I-COL
+nhỏ	A	O
+còn	R	O
+không	R	O
+ạ	I	O
+chân váy	N	B-ITEM
+còn	R	O
+thì	C	O
+cho	V	O
+mình	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+với	E	O
+ạ	T	O
+
+đầm	N	B-ITEM
+nâu	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+chân váy	N	B-ITEM
+eo	V	O
+75	N	O
+mặc	V	O
+size	N	B-SIZE
+gì	P	O
+
+hôm	N	O
+bữa	N	O
+em	N	O
+đặt	V	O
+một	M	O
+cái	Nc	O
+cái	Nc	O
+set	N	B-ITEM
+màu	N	B-COL
+vàng	N	I-COL
+mà	C	O
+bên	N	O
+chị	Nc	O
+nói	V	O
+mặc	V	O
+không	R	O
+vừa	R	O
+
+đầm	N	B-ITEM
+vàng	N	B-COL
+185k	A	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+set	N	B-ITEM
+vest	N	I-ITEM
+xanh	A	B-COL
+còn	R	O
+không	R	O
+set	N	B-ITEM
+xanh	A	B-COL
+nay	P	O
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+vet	N	I-ITEM
+3	M	O
+món	N	B-ITEM
+xanh	A	B-COL
+nay	P	O
+còn	R	O
+không	R	O
+em	N	O
+
+áo cánh tiên	N	B-ITEM
+váy	V	I-ITEM
+vàng	N	B-COL
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+bộ	N	I-ITEM
+đen	A	B-COL
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+hồng	N	B-COL
+và	C	O
+áo	N	B-ITEM
+trắng	A	I-COL
+này	P	O
+còn	R	O
+set	N	B-ITEM
+hồng	N	B-COL
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+vet	V	I-ITEM
+hồng	N	B-COL
+còn	R	O
+không	R	O
+sơ mi	N	B-ITEM
+hồng	N	B-COL
+giá	N	O
+bao nhiêu	P	O
+shop	Nc	O
+
+em	N	O
+ơi	I	O
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+đen	A	B-COL
+không	R	O
+giao	V	O
+chị	Nc	O
+1	M	O
+set	N	I-ITEM
+với	E	O
+
+2	M	O
+set	N	B-ITEM
+size	N	B-SIZE
+S	Np	I-SIZE
+còn	R	O
+không	R	O
+shop	Nc	O
+
+co	V	O
+cái	Nc	O
+đầm	N	B-ITEM
+xanh	A	B-COL
+thắt	V	B-ITEM
+nơ	N	B-ITEM
+không	R	O
+ạ	I	O
+
+còn	R	O
+đen	A	B-COL
+M	Np	B-SIZE
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+áo	N	B-ITEM
+này	P	O
+có	V	O
+size	N	B-SIZE
+khoảng	A	O
+60kg	N	O
+không	R	O
+à	T	O
+?	CH	O
+với	E	O
+giá	N	O
+áo len	N	B-ITEM
+nâu	A	B-COL
+giá	N	O
+trên	E	O
+live	N	O
+145	N	O
+mà	C	O
+thấy	V	O
+mình	P	O
+tính	V	O
+giá	N	O
+150	M	O
+ạ	T	O
+
+mẫu	N	B-ITEM
+thứ	N	O
+hai	M	O
+mà	C	O
+màu da	V	B-COL
+bữa	N	O
+em	N	O
+đặt	V	O
+shop	N	O
+còn	R	O
+2	M	O
+mẫu	Nu	B-ITEM
+nay	P	O
+gửi	V	O
+lại	R	O
+giúp	V	O
+em	N	O
+với	E	O
+ạ	T	O
+
+còn	R	O
+không	R	O
+gửi	V	O
+mình	P	O
+áo len	V	B-ITEM
+vàng	N	B-COL
+và	C	O
+set	N	B-ITEM
+này	P	O
+nhe	V	O
+
+áo len	N	B-ITEM
+vàng	N	B-COL
+và	C	O
+set	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+cho	E	O
+mình	P	O
+hỏi	V	O
+áo	N	B-ITEM
+hồng	N	B-COL
+còn	R	O
+không	R	O
+
+với	E	O
+đầm	N	B-ITEM
+tím	A	B-COL
+165k	N	O
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+?	CH	O
+
+195k	N	O
+đầm	N	B-ITEM
+với	E	O
+ship	N	O
+về	E	O
+tỉnh	N	B-LOC
+Đồng Nai	Np	I-LOC
+bao nhiêu	P	O
+shop	Nc	O
+?	CH	O
+
+chị	Nc	O
+ơi	I	O
+set	N	B-ITEM
+nâu	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+chưa	R	O
+shop	Nc	O
+,	CH	O
+bên	N	O
+shop	N	O
+còn	R	O
+mẫu	N	B-ITEM
+đầm	N	I-ITEM
+đen	A	B-COL
+nhung	N	I-MATERIAL
+đó	P	O
+không	R	O
+
+shop	N	O
+còn	R	O
+đỏ	A	B-COL
+S	Np	B-SIZE
+không	R	O
+ạ	I	O
+
+em	N	O
+ơi	I	O
+chị	Nc	O
+có	V	O
+đơn	N	O
+hàng	N	O
+hồi	N	O
+tối	N	O
+em	N	O
+xem	V	O
+còn	R	O
+cái	Nc	O
+đầm	N	B-ITEM
+đen	A	B-COL
+này	P	O
+bỏ	V	O
+vào	V	O
+cho	E	O
+chị	Nc	O
+luôn	R	O
+rồi	C	O
+chốt	V	O
+cho	E	O
+chị	Nc	O
+nha	V	O
+em	N	O
+
+cho	E	O
+em	N	O
+hỏi	V	O
+chân váy	N	B-ITEM
+đen	A	B-COL
+với	E	O
+beo	N	I-COL
+còn	R	O
+không	R	O
+ạ	I	O
+
+hai	M	O
+mẫu	N	B-ITEM
+váy	N	I-ITEM
+này	P	O
+còn	R	O
+size	N	B-SIZE
+S	Np	I-SIZE
+không	R	O
+em	N	O
+
+shop	Nc	O
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+không	R	O
+màu	N	B-COL
+vàng	N	I-COL
+vậy	P	O
+
+còn	R	O
+hàng	N	O
+không	R	O
+em	N	O
+nếu	C	O
+còn	R	O
+cho	E	O
+chị	Nc	O
+1	M	O
+bộ đồ	N	B-ITEM
+xanh	A	B-COL
+đó	P	O
+nhé	T	O
+
+mẫu	N	B-ITEM
+này	P	O
+mình	P	O
+còn	R	O
+M	Np	B-SIZE
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+áo	N	B-ITEM
+đen	A	B-COL
+còn	R	O
+không	R	O
+shop	Nc	O
+
+set	N	B-ITEM
+hồng	N	B-COL
+,	CH	O
+và	C	O
+áo	N	I-ITEM
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+set	N	B-ITEM
+xanh	A	B-COL
+có	V	O
+màu	N	B-COL
+nude	A	I-COL
+không	R	O
+ạ	I	O
+,	CH	O
+mình	P	O
+cần	V	O
+màu	N	B-COL
+nude	A	I-COL
+
+mẫu	N	B-ITEM
+này	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+còn	R	O
+không	R	O
+ship	V	O
+chung	A	O
+cho	E	O
+em	N	O
+luôn	R	O
+với	E	O
+
+set	N	B-ITEM
+áo	N	I-ITEM
+dây	N	I-ITEM
+,	CH	O
+chân váy	V	B-ITEM
+caro	N	I-ITEM
+hồng	N	B-COL
+
+set	N	B-ITEM
+trắng	A	B-COL
+vạt	V	B-ITEM
+xòe	M	I-ITEM
+
+mẫu	N	B-ITEM
+hoa	N	I-ITEM
+nhúng	V	B-ITEM
+eo	N	I-ITEM
+dây rút	N	B-ITEM
+này	P	O
+còn	R	O
+size	N	B-SIZE
+L	Ny	I-SIZE
+không	R	O
+ạ	I	O
+
+chốt	N	O
+gộp	V	O
+đơn	N	O
+cho	V	O
+mình	P	O
+với	E	O
+shop	Nc	O
+ơi	I	O
+!	CH	O
+
+coi	V	O
+giúp	V	O
+mình	P	O
+mã	V	B-ITEM
+8	M	I-ITEM
+hoa	N	I-ITEM
+tím	A	B-COL
+hôm nay	N	O
+giờ	N	O
+live	N	O
+còn	R	O
+không	R	O
+chốt	N	O
+dự bị	A	O
+cho	E	O
+mình	P	O
+mới	A	O
+
+set	N	B-ITEM
+đầm	V	I-ITEM
+hồng	N	B-COL
+trơn	N	I-COL
+còn	R	O
+hàng	N	O
+không	R	O
+shop	Nc	O
+cho	E	O
+em	N	O
+hỏi	V	O
+mẫu	N	B-ITEM
+này	P	O
+màu	N	B-COL
+trắng	A	I-COL
+còn	R	O
+không	R	O
+ạ	I	O
+
+còn	R	O
+không	R	O
+em	N	O
+ơi	T	O
+,	CH	O
+set	N	B-ITEM
+da	N	B-MATERIAL
+eo	V	O
+63	N	O
+mặc	V	O
+S	Np	B-SIZE
+vừa	R	O
+không	R	O
+em	N	O
+
+set	N	B-ITEM
+xanh	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+Hằng	Np	B-PER
+
+đầm	N	B-ITEM
+nâu	A	B-COL
+còn	R	O
+không	R	O
+em	N	O
+?	CH	O
+set	N	B-ITEM
+len	N	B-MATERIAL
+xanh	A	B-COL
+còn	R	O
+không	R	O
+em	N	O
+
+áo	N	B-ITEM
+tay	N	B-ITEM
+bèo	M	I-ITEM
+còn	C	O
+không	R	O
+cho	V	O
+chị	Nc	O
+cái	Nc	O
+size	N	B-SIZE
+S	Np	I-SIZE
+
+chân váy	N	B-ITEM
+xếp ly	V	I-ITEM
+nâu	A	B-COL
+với	E	O
+áo	N	B-ITEM
+bun	N	I-ITEM
+trắng	A	I-COL
+phải	A	O
+không	R	O
+ạ	T	O
+
+set	N	B-ITEM
+áo quần	N	I-ITEM
+váy	N	I-ITEM
+đỏ	A	B-COL
+còn	R	O
+không	R	O
+ạ	I	O
+shop	Nc	O
+ơi	I	O
+mình	P	O
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+đen	A	B-COL
+không	R	O
+ạ	I	O
+
+hôm qua	N	O
+em	N	O
+có	V	O
+đặt	V	O
+mã	V	B-ITEM
+túi	N	I-ITEM
+Dior	Np	B-ORG
+màu	N	B-COL
+kem	A	I-COL
+
+Set	N	B-ITEM
+hồng	V	B-COL
+380k	N	O
+giảm	V	O
+còn	R	O
+260k	M	O
+
+1	M	O
+set	N	B-ITEM
+vest	N	I-ITEM
+body	V	I-ITEM
+hồng	N	B-COL
+Size S	Np	B-SIZE
+giá	N	O
+260k	M	O
+
+1	M	O
+set	N	B-ITEM
+body	Np	I-ITEM
+vest	V	I-ITEM
+hồng	N	B-COL
+size	N	B-SIZE
+S	Np	I-SIZE
+giá	N	O
+260k	M	O
+
+dạ	N	O
+đầm	N	B-ITEM
+nude	A	B-COL
+là	V	O
+cotton	N	B-MATERIAL
+hàn	V	I-MATERIAL
+ạ	T	O
+
+đầm	N	B-ITEM
+nude	A	B-COL
+lưới	N	I-ITEM
+còn	R	O
+không	R	O
+
+đầm	N	B-ITEM
+caro	N	I-ITEM
+còn	R	O
+màu	N	B-COL
+xanh	A	I-COL
+không	R	O
+ạ	T	O
+
+chị	Nc	O
+xem	V	O
+đầm	N	B-ITEM
+công sở	N	I-ITEM
+caro	N	B-ITEM
+xanh	A	B-COL
+còn	R	O
+không	R	O
+
+chị	Nc	O
+ơi	I	O
+đầm	N	B-ITEM
+cổ	N	B-ITEM
+vest	N	I-ITEM
+xanh	A	B-COL
+còn	R	O
+không	R	O
+
+Set	N	O   B-ITEM
+trắng	A	B-COL
+có	V	O
+cúc	N	B-ITEM
+nhiêu	V	O
+vậy	T	O
+shop	Nc	O
+
+shop	Nc	O
+còn	R	O
+áo	N	B-ITEM
+trắng	A	B-COL
+cổ	A	B-ITEM
+chữ	N	I-ITEM
+V	Np	I-ITEM
+với	E	O
+quần	N	B-ITEM
+đen	A	B-COL
+không	R	O
+
+set	N	B-ITEM
+trắng	A	B-COL
+đính	N	O
+3	M	O
+nút	N	B-ITEM
+tay	N	I-ITEM
+ngắn	A	I-ITEM
+
+set	N	B-ITEM
+trắng	A	B-COL
+lệch tà	V	B-ITEM
+nhiêu	A	O
+vậy	T	O
+shop	Nc	O
+sơ mi	N	B-ITEM
+dài tay	A	B-ITEM
+có	V	O
+màu	N	B-COL
+đen	A	I-COL
+không	R	O
+ạ	T	O
+
+set	N	B-ITEM
+trắng	A	B-COL
+đen	A	I-COL
+shop	N	O
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+vàng	N	B-COL
+,	CH	O
+quần	N	I-ITEM
+đen	A	I-COL
+còn	R	O
+sale	V	O
+không	R	O
+
+set	N	B-ITEM
+sọc	N	I-ITEM
+đen	A	B-COL
+tay	N	B-ITEM
+phồng	M	I-ITEM
+còn	R	O
+không	R	O
+
+sét	N	B-ITEM
+áo	N	I-ITEM
+trắng	A	B-COL
+,	CH	O
+chân váy	N	B-ITEM
+đen	A	I-COL
+nhiêu	A	O
+vậy	T	O
+shop	Nc	O
+
+đầm	N	B-ITEM
+voan	N	I-ITEM
+trắng	A	B-COL
+nữ	N	O
+tính	N	O
+
+đầm	N	B-ITEM
+ôm	V	I-ITEM
+chỉ	R	O
+còn	V	O
+L	Ny	B-SIZE
+thôi	T	O
+chị	Nc	O
+
+chân váy	N	B-ITEM
+chữ	N	I-ITEM
+A	Ny	I-ITEM
+em	N	O
+56kg	N	O
+mặc	V	O
+L	Ny	B-SIZE
+vừa	R	O
+không	R	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+S	Np	B-SIZE
+với	E	O
+M	Np	B-SIZE
+ạ	T	O
+
+quần	N	B-ITEM
+baggy	N	I-ITEM
+còn	R	O
+không	R	O
+cho	V	O
+em	N	O
+đặt	V	O
+1	M	O
+cái	Nc	O
+size	N	B-SIZE
+30	M	I-SIZE
+
+Dạ	V	O
+đơn	N	O
+hàng	N	O
+của	E	O
+chị	Nc	O
+là	V	O
+1	M	O
+set	N	B-ITEM
+áo	N	I-ITEM
+trắng	A	B-COL
+cổ	A	B-ITEM
+chữ	N	I-ITEM
+V	Ny	I-ITEM
+kèm	V	O
+quần	N	B-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+giá	N	O
+280k	M	O
+
+quần	N	B-ITEM
+tây	N	I-ITEM
+ống loe	N	B-ITEM
+màu	N	B-COL
+đen	A	I-COL
+với	E	O
+màu	N	B-COL
+nude	N	I-COL
+size	N	B-SIZE
+L	Ny	I-SIZE
+còn	R	O
+không	R	O
+em	N	O
+
+set	N	B-ITEM
+vàng	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+chốt	V	O
+em	N	O
+với	E	O
+ạ	T	O
+
+với	E	O
+váy	N	B-ITEM
+jean	N	I-ITEM
+còn	R	O
+không	R	O
+shop	Nc	O
+
+em	N	O
+còn	R	O
+áo khoác	N	B-ITEM
+kaki	N	I-ITEM
+không	R	O
+em	N	O
+
+đầm	N	B-ITEM
+rêu	N	B-COL
+giá	N	O
+nhiêu	A	O
+
+shop	Nc	O
+còn	R	O
+áo	N	B-ITEM
+trắng	A	B-COL
+chân váy	N	B-ITEM
+kẻ	Nc	I-ITEM
+
+em	N	O
+ơi	I	O
+cho	E	O
+chị	Nc	O
+hỏi	V	O
+bên	N	O
+em	N	O
+còn	R	O
+áo khoác	V	B-ITEM
+len	N	B-MATERIAL
+không	R	O
+
+2	M	O
+set	N	B-ITEM
+da	N	B-MATERIAL
+còn	R	O
+không	R	O
+em	N	O
+
+túi	N	B-ITEM
+da	N	B-MATERIAL
+còn	R	O
+không	R	O
+shop	Nc	O
+
+chị	Nc	O
+hỏi	V	O
+set	N	B-ITEM
+3	M	I-ITEM
+món	N	I-ITEM
+225	V	O
+vải	N	B-MATERIAL
+nén	N	I-MATERIAL
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+1	M	O
+set	N	I-ITEM
+
+áo	N	B-ITEM
+da	N	B-MATERIAL
+285k	N	O
+còn	R	O
+không	R	O
+shop	Nc	O
+
+túi	N	B-ITEM
+da	N	B-MATERIAL
+còn	R	O
+không	R	O
+shop	Nc	O
+mẫu	N	B-ITEM
+váy	V	I-ITEM
+da	N	B-MATERIAL
+215	A	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+em	N	O
+cần	V	O
+mã	V	B-ITEM
+áo len	N	B-MATERIAL
+Dior	Np	B-ORG
+bữa	N	O
+em	N	O
+chưa	R	O
+chốt	V	O
+được	R	O
+mình	P	O
+còn	R	O
+sót	V	O
+cái	T	O
+nào	P	O
+không	R	O
+à	T	O
+
+áo	N	B-ITEM
+croptop	V	I-ITEM
+tay	N	B-ITEM
+bèo	M	I-ITEM
+em	N	O
+ơi	I	O
+
+set	N	B-ITEM
+đầm	N	I-ITEM
+thun	N	B-MATERIAL
+còn	R	O
+không	R	O
+em	N	O
+
+mà	C	O
+cái	Nc	O
+áo	N	B-ITEM
+đó	P	O
+vải	N	B-MATERIAL
+gì	P	O
+vậy	T	O
+chị	Nc	O
+?	CH	O
+kaki	N	B-MATERIAL
+hay	C	O
+da lộn	N	B-MATERIAL
+
+quần	N	B-ITEM
+baggy	N	I-ITEM
+jean	M	B-MATERIAL
+hết	V	O
+hàng	N	O
+rồi	T	O
+ạ	T	O
+
+áo	N	B-ITEM
+vải	N	B-MATERIAL
+cotton	N	I-MATERIAL
+mềm	A	O
+set	N	B-ITEM
+vàng	N	B-COL
+cổ	A	B-ITEM
+vuông	A	I-ITEM
+còn	R	O
+sale	V	O
+không	R	O
+
+set	N	B-ITEM
+vàng	N	B-COL
+viền	N	B-ITEM
+đen	A	B-COL
+tay	N	B-ITEM
+phồng	V	I-ITEM
+hết	V	O
+hàng	N	O
+rồi	T	O
+ạ	T	O
+
+cho	V	O
+em	N	O
+đặt	V	O
+1	M	O
+cái	Nc	O
+size	N	B-SIZE
+30	M	I-SIZE
+
+shop	Nc	O
+cho	E	O
+hỏi	V	O
+có	V	O
+bán	V	O
+size	N	B-SIZE
+1m6	M	O
+-	CH	O
+60kg	N	O
+không	R	O
+.	CH	O
+
+em	N	O
+49kg	N	O
+cao	A	O
+1m55	N	O
+thì	C	O
+size	N	B-SIZE
+nào	P	O
+được	V	O
+chị	Nc	O
+.	CH	O
+
+em	N	O
+47kg	V	O
+mặc	V	O
+size	N	B-SIZE
+bao nhiêu	P	O
+này	P	O
+.	CH	O
+
+52kg	N	O
+mặc	V	O
+M	Np	B-SIZE
+được	R	O
+không	R	O
+em	N	O
+.	CH	O
+
+shop	Nc	O
+xem	V	O
+còn	R	O
+hàng	N	O
+thì	C	O
+cho	E	O
+mình	P	O
+lấy	V	O
+cái	Nc	O
+này	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+.	CH	O
+
+2	M	O
+bộ	N	B-ITEM
+em	N	O
+lấy	R	O
+có	V	O
+size	N	B-SIZE
+không	R	O
+chị	Nc	O
+.	CH	O
+
+nếu	C	O
+còn	V	O
+lấy	V	O
+cho	E	O
+mình	P	O
+size	N	B-SIZE
+M	Np	I-SIZE
+nha	I	O
+.	CH	O
+
+có	V	O
+thì	C	O
+gửi	V	O
+cho	E	O
+em	N	O
+size	N	B-SIZE
+S	Np	I-SIZE
+với	E	O
+ạ	T	O
+.	CH	O
+
+nếu	C	O
+còn	V	O
+lấy	V	O
+cho	E	O
+mình	P	O
+size	N	B-SIZE
+S	Np	I-SIZE
+nha	I	O
+
+mình	P	O
+45kg	V	O
+153	N	O
+mặc	V	O
+size	N	B-SIZE
+gì	P	O
+ạ	T	O
+.	CH	O
+
+54kg	N	O
+mặc	V	O
+size	N	B-SIZE
+gì	P	O
+vừa	R	O
+ạ	T	O
+.	CH	O
+
+49kg	N	O
+size	N	B-SIZE
+gì	P	O
+vừa	R	O
+à	T	O
+.	CH	O
+
+dạ	N	O
+em	N	O
+1m62	V	O
+nặng	A	O
+48kg	N	O
+mac	V	O
+size	N	B-SIZE
+S	Np	I-SIZE
+được	R	O
+không	R	O
+chị	Nc	O
+.	CH	O
+
+48kg	N	O
+eo	V	O
+68	N	O
+mặc	V	O
+size	N	B-SIZE
+gì	P	O
+vậy	P	O
+em	N	O
+.	CH	O
+
+còn	R	O
+size	N	B-SIZE
+S	Np	I-SIZE
+không	R	O
+ạ	I	O
+.	CH	O
+
+còn	C	O
+không	R	O
+cho	V	O
+chị	Nc	O
+cái	Nc	O
+size	N	B-SIZE
+S	Np	I-SIZE
+.	CH	O
+
+Mẫu	N	O
+có	V	O
+3	M	O
+size	N	B-SIZE
+S	Np	I-SIZE
+M	Np	B-SIZE
+với	E	O
+L	Ny	B-SIZE
+
+Này	P	O
+chỉ	R	O
+còn	V	O
+size	N	B-SIZE
+M	Np	I-SIZE
+với	E	O
+L	Ny	I-SIZE
+thôi	T	O
+chị	Nc	O
+
+chị	Nc	O
+mặc	V	O
+size	N	B-SIZE
+L	Ny	I-SIZE
+ạ	T	O
+
+chị	Nc	O
+cho	V	O
+em	N	O
+xin	V	O
+cân nặng	N	O
+chiều cao	V	O
+em	N	O
+tư vấn	V	O
+size	N	B-SIZE
+chị	Nc	O
+nhé	T	O
+!	CH	O
+
+47kg	N	O
+mặc	V	O
+size	N	B-SIZE
+gì	P	O
+em	N	O
+
+freesize	N	B-SIZE
+bao nhiêu	P	O
+kí	N	O
+ạ	T	O
+
+50kg	N	O
+cao	A	O
+1m55	V	O
+size	N	B-SIZE
+gì	P	O
+ạ	T	O
+
+em	N	O
+1m60	V	O
+57kg	N	O
+mặc	V	O
+vừa	R	O
+size	N	B-SIZE
+bao nhiêu	P	O
+anh	Nc	O
+
+mình	P	O
+em	N	O
+cỡ	N	O
+54kg	M	O
+-	CH	O
+55kg	N	O
+thì	C	O
+có	V	O
+size	N	B-SIZE
+không	R	O
+shop	Nc	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+cho	E	O
+chị	Nc	O
+luôn	R	O
+nha	I	O
+size	N	B-SIZE
+M	Np	I-SIZE
+
+giá	N	O
+bao nhiêu	P	O
+shop	Nc	O
+có	V	O
+size	N	B-SIZE
+không	R	O
+shop	Nc	O
+mình	P	O
+cao	A	O
+1m56	N	O
+nặng	A	O
+54kg	N	O
+eo	V	O
+72	N	O
+
+bên	N	O
+shop	Nc	O
+có	V	O
+bán	V	O
+size	N	B-SIZE
+cho	E	O
+1m6	N	O
+-	CH	O
+60kg	N	O
+không	R	O
+
+còn	R	O
+da	N	B-MATERIAL
+195k	A	O
+
+còn	R	O
+không	R	O
+em	N	O
+,	CH	O
+vải	N	B-MATERIAL
+gì	P	O
+vậy	P	O
+em	N	O
+
+kaki	N	B-MATERIAL
+chất	N	O
+dày	A	O
+
+còn	R	O
+da	N	B-MATERIAL
+195k	A	O
+
+vải	N	B-MATERIAL
+nỉ	N	I-MATERIAL
+,	CH	O
+có	V	O
+lót	N	O
+bông	N	B-MATERIAL
+nên	C	O
+hơi	R	O
+nóng	A	O
+
+thun	N	B-MATERIAL
+co giãn	A	I-MATERIAL
+nên	C	O
+yên tâm	A	O
+nha	T	O
+
+nếu	C	O
+còn	R	O
+cái	T	O
+đen	A	B-COL
+này	P	O
+
+còn	R	O
+xanh	A	B-COL
+không	R	O
+ạ	I	O
+
+đỏ	A	B-COL
+mình	P	O
+còn	R	O
+không	R	O
+chị	Nc	O
+
+hồng	N	B-COL
+mới	R	O
+về	V	O
+lại	R	O
+mà	C	O
+hết	V	O
+rồi	C	O
+hả	T	O
+em	N	O
+
+còn	R	O
+thì	C	O
+dồn	V	O
+đơn	N	O
+em	N	O
+với	E	O
+Thiên An	Np	B-PER
+Nguyễn nhe	Np	I-PER
+.	CH	O
+
+Lê Dương	Np	B-PER
+Hồng Ngọc	Np	I-PER
+đã	R	O
+trả lời	V	O
+một	M	O
+quảng cáo	N	O
+.	CH	O
+
+Hồng	Np	B-PER
+Phí	Np	I-PER
+đã	R	O
+trả lời	V	O
+một	M	O
+quảng cáo	N	O
+
+Ánh Hồng Dương	Np	B-PER
+đã	R	O
+trả lời	V	O
+một	M	O
+quảng cáo	N	O
+.	CH	O
+
+người nhận	N	O
+Lâm Thị Nguyễn	Np	B-PER
+
+áo sơ mi	N	B-ITEM
+thụng	M	I-ITEM
+
+quần	N	B-ITEM
+thụng	M	I-ITEM
+
+túi	N	B-ITEM
+H&M	Np	B-ORG
+còn	R	O
+không	R	O
+
+mẫu	N	B-ITEM
+này	P	O
+mới	R	O
+live	V	O
+hôm qua	N	O
+,	CH	O
+còn	C	O
+hàng	N	O
+shop	Nc	O
+gửi	V	O
+cho	E	O
+mình	P	O
+nha	I	O
+
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+live	V	O
+tối qua	N	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+mẫu	N	B-ITEM
+áo khoác	N	O
+này	P	O
+còn	R	O
+không	R	O
+em	N	O
+nhiêu	V	O
+một	M	O
+cái	Nc	O
+inbox	N	O
+chị	Nc	O
+nha	I	O
+
+nếu	C	O
+còn	V	O
+để	E	O
+chị	Nc	O
+mẫu	V	B-ITEM
+đầu	N	O
+và	C	O
+số	N	O
+3	M	O
+nhé	T	O
+
+1	M	O
+lô	N	O
+như	C	O
+vậy	P	O
+tầm	N	O
+bao nhiêu	P	O
+mẫu	N	B-ITEM
+và	C	O
+dao động	V	O
+phí	N	O
+bao nhiêu	P	O
+ạ	T	O
+
+còn	R	O
+đầm	N	B-ITEM
+hoa	N	I-ITEM
+175k	N	O
+không	R	O
+shop	Nc	O
+
+còn	R	O
+thì	C	O
+ship	V	O
+cho	E	O
+chị	Nc	O
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+,	CH	O
+chị	Nc	O
+51kg	V	O
+cao	A	O
+1m52	N	O
+chị	Nc	O
+ơi	I	O
+set	N	B-ITEM
+3	M	I-ITEM
+món	N	I-ITEM
+còn	R	O
+không	R	O
+chị	Nc	O
+
+set	N	B-ITEM
+vest	N	I-ITEM
+này	P	O
+còn	R	O
+không	R	O
+bé	N	O
+ơi	I	O
+
+set	N	B-ITEM
+215k	N	I-ITEM
+này	P	O
+còn	R	O
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+áo len	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+shop	V	O
+ơi	I	O
+
+mã	N	B-ITEM
+19	M	I-ITEM
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+1	M	O
+cái	T	O
+đi	V	O
+
+mã	N	B-ITEM
+19	M	I-ITEM
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+1	M	O
+cái	T	O
+đi	V	O
+
+chị	Nc	O
+ơi	I	O
+..	N	O
+mình	P	O
+còn	R	O
+mẫu	N	B-ITEM
+nào	P	O
+trong	E	O
+3	M	O
+hình	N	O
+trên	N	O
+không	R	O
+chị	Nc	O
+..	V	O
+ưu tiên	V	O
+mẫu	N	I-ITEM
+1	M	I-ITEM
+
+nếu	C	O
+còn	V	O
+chị	Nc	O
+cho	V	O
+em	N	O
+1	M	O
+váy	N	B-ITEM
+được	R	O
+không	R	O
+ạ	I	O
+
+mã	N	B-ITEM
+34	N	I-ITEM
+này	P	O
+còn	R	O
+ship	V	O
+mình	P	O
+nhé	T	O
+
+dạ	N	O
+bao nhiêu	P	O
+1	M	O
+bộ	N	B-ITEM
+ạ	T	O
+
+cái	Nc	O
+đầm	N	B-ITEM
+215k	N	O
+còn	R	O
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+shop	Nc	O
+ơi	I	O
+tối qua	N	O
+mình	P	O
+chốt	V	O
+ba	M	O
+set	N	B-ITEM
+nay	P	O
+mà	C	O
+hình như	X	O
+không	R	O
+được	V	O
+,	CH	O
+shop	Nc	O
+còn	R	O
+dư	A	O
+set	N	I-ITEM
+nào	P	O
+không	R	O
+gửi	V	O
+cho	E	O
+mình	P	O
+với	E	O
+
+váy	N	B-ITEM
+bao nhiêu	P	O
+ạ	T	O
+,	CH	O
+60kg	N	O
+mang	V	O
+vừa	R	O
+không	R	O
+
+shop	Nc	O
+ơi	I	O
+hôm qua	N	O
+đặt	V	O
+2	M	O
+đầm	N	B-ITEM
+này	P	O
+không	R	O
+được	V	O
+lúc	N	O
+nãy	P	O
+nay	P	O
+like	V	O
+mạng	N	O
+yếu	A	O
+em	N	O
+đặt	V	O
+không	R	O
+được	V	O
+giờ	N	O
+còn	R	O
+không	R	O
+ạ	V	O
+
+để	E	O
+cho	E	O
+em	N	O
+túi	N	B-ITEM
+đá	N	O
+này	P	O
+bên	N	O
+mình	P	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+em	N	O
+set	N	B-ITEM
+185k	N	I-ITEM
+hôm qua	N	O
+live	N	O
+còn	R	O
+không	R	O
+
+còn	R	O
+set	N	B-ITEM
+139	N	I-ITEM
+
+mã	N	B-ITEM
+19	M	I-ITEM
+-	CH	O
+215k	N	O
+còn	R	O
+không	R	O
+shop	Nc	O
+
+áo	N	B-ITEM
+thì	C	O
+có	V	O
+rồi	C	O
+em	N	O
+,	CH	O
+còn	C	O
+chân váy	N	B-ITEM
+xếp li	N	I-ITEM
+thì	C	O
+chưa	R	O
+có	V	O
+,	CH	O
+em	N	O
+kiểm tra	V	O
+xem	V	O
+có	V	O
+còn	V	O
+chân váy	V	O
+không	R	O
+nhé	T	O
+
+chân váy	N	B-ITEM
+xếp ly	V	I-ITEM
+có	V	O
+hàng	N	O
+không	R	O
+shop	Nc	O
+ơi	I	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+ship	V	O
+cho	E	O
+mình	P	O
+1	M	O
+cái	T	O
+chung	A	O
+với	E	O
+đầm	N	I-ITEM
+hoa	N	I-ITEM
+luôn	R	O
+
+đầm	N	B-ITEM
+này	P	O
+169k	N	O
+phải	A	O
+không	R	O
+ạ	I	O
+,	CH	O
+chị	Nc	O
+check	V	O
+giúp	V	O
+em	N	O
+còn	R	O
+hàng không	N	O
+nha	I	O
+
+chị	Nc	O
+ơi	I	O
+hôm qua	N	O
+em	N	O
+có	V	O
+đặt	V	O
+hai	M	O
+đầm	N	B-ITEM
+rồi	C	O
+giờ	N	O
+em	N	O
+muốn	V	O
+hỏi	V	O
+thêm	R	O
+còn	R	O
+đầm	N	I-ITEM
+này	P	O
+em	N	O
+lấy	V	O
+luôn	R	O
+được	R	O
+không	R	O
+chị	Nc	O
+
+chị	Nc	O
+thích	V	O
+cái	Nc	O
+set	N	B-ITEM
+này	P	O
+có	V	O
+còn	V	O
+không	R	O
+cho	V	O
+chị	Nc	O
+vì	E	O
+hôm qua	N	O
+chị	Nc	O
+có	V	O
+đặt	V	O
+nhưng	C	O
+không	R	O
+được	V	O
+đọc	V	O
+tên	N	O
+,	CH	O
+chị	Nc	O
+cũng	R	O
+có	V	O
+hai	M	O
+sản phẩm	N	O
+rồi	C	O
+nếu	C	O
+được	V	O
+cho	V	O
+thêm	V	O
+vào	E	O
+cho	E	O
+chị	Nc	O
+để	E	O
+đi	V	O
+cùng	A	O
+đơn	N	O
+
+hôm qua	N	O
+mình	P	O
+có	V	O
+chốt	N	O
+2	M	O
+set	N	B-ITEM
+trên	E	O
+live	N	O
+cho	E	O
+mình	P	O
+hỏi	V	O
+mấy	L	O
+set	N	I-ITEM
+này	P	O
+còn	R	O
+không	R	O
+để	V	O
+mình	P	O
+lấy	V	O
+luôn	R	O
+
+còn	R	O
+váy	A	B-ITEM
+này	P	O
+không	R	O
+em	N	O
+hồi	N	O
+chiều	N	O
+chị	Nc	O
+bận	V	O
+không	R	O
+xem	V	O
+
+còn	R	O
+mẫu	N	B-ITEM
+195k	N	O
+này	P	O
+không	R	O
+để	E	O
+chị	Nc	O
+nè	T	O
+
+lần	N	O
+trước	N	O
+bên	N	O
+shop	N	O
+còn	R	O
+ghi	V	O
+sổ	N	O
+chị	Nc	O
+170k	V	O
+,	CH	O
+nếu	C	O
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+lấy	V	O
+cho	E	O
+chị	Nc	O
+nhé	T	O
+
+em	N	O
+ơi	I	O
+còn	R	O
+dư	A	O
+áo khoác	N	B-ITEM
+nào	P	O
+không	R	O
+?	CH	O
+cho	E	O
+chị	Nc	O
+xem	V	O
+hình	N	O
+được	R	O
+không	R	O
+?	CH	O
+chị	Nc	O
+toàn	R	O
+lỡ	V	O
+mất	V	O
+giờ	N	O
+live	N	O
+
+áo len	N	B-ITEM
+thổ cẩm	N	I-ITEM
+còn	R	O
+không	R	O
+ạ	I	O
+
+báo giá	N	O
+em	N	O
+3	M	O
+set	N	B-ITEM
+này	P	O
+với	E	O
+ạ	T	O
+
+shop	N	O
+có	V	O
+set	N	B-ITEM
+này	P	O
+không	R	O
+ạ	I	O
+cho	E	O
+em	N	O
+xin	V	O
+giá	N	O
+nha	I	O
+
+cho	E	O
+em	N	O
+hỏi	V	O
+còn	R	O
+áo	N	B-ITEM
+gấu	N	O
+kèm	V	O
+túi	N	I-ITEM
+không	R	O
+ạ	I	O
+
+em	N	O
+ơi	I	O
+quần	N	B-ITEM
+đính	V	O
+đá	N	O
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+195	N	I-ITEM
+còn	R	O
+không	R	O
+
+túi	N	B-ITEM
+169k	N	O
+còn	R	O
+chốt	V	O
+em	N	O
+nha	I	O
+chị	Nc	O
+
+set	N	B-ITEM
+179	M	I-ITEM
+còn	R	O
+không	R	O
+bạn	N	O
+
+mình	P	O
+muốn	V	O
+hỏi	V	O
+giá	N	O
+2	M	O
+bộ	N	B-ITEM
+này	P	O
+
+em	N	O
+ơi	I	O
+còn	R	O
+đầm	N	B-ITEM
+voan	V	I-ITEM
+hoa	N	I-ITEM
+đuôi	N	O
+cá	N	O
+175k	V	O
+cho	E	O
+chị	Nc	O
+1	M	O
+cái	T	O
+nha	T	O
+
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+và	C	O
+giá	N	O
+bao nhiêu	P	O
+ạ	T1	O
+
+set	N	B-ITEM
+bèo	V	I-ITEM
+giá	N	O
+bao nhiêu	P	O
+ạ	T	O
+
+mẫu	N	B-ITEM
+này	P	O
+trưa	N	O
+hôm qua	N	O
+2	M	O
+giờ	Nu	O
+có	V	O
+live	N	O
+cho	E	O
+em	N	O
+hỏi	V	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+set	N	B-ITEM
+175k	N	I-ITEM
+hôm qua	N	O
+live	N	O
+còn	R	O
+không	R	O
+à	T	O
+?	CH	O
+
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+live	V	O
+lúc	N	O
+chiều	N	O
+không	R	O
+
+áo	N	B-ITEM
+gấu	N	I-ITEM
+chị	Nc	O
+con	N	O
+không	R	O
+chị	Nc	O
+?	CH	O
+
+set	N	B-ITEM
+kẹp tóc	N	I-ITEM
+còn	R	O
+không	R	O
+chị	Nc	O
+
+còn	R	O
+đầm	N	B-ITEM
+165	M	I-ITEM
+không	R	O
+shop	Nc	O
+
+shop	Nc	O
+ơi	I	O
+,	CH	O
+những	L	O
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+ạ	I	O
+?	CH	O
+báo giá	V	O
+giúp	V	O
+mình	P	O
+với	E	O
+
+em	N	O
+ơi	I	O
+set	N	B-ITEM
+225	N	I-ITEM
+còn	R	O
+không	R	O
+em	N	O
+
+set	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+em gái	N	O
+
+đầm	N	I-ITEM
+xếp li	A	I-ITEM
+
+áo len	N	B-ITEM
+tay dài	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+em	N	O
+
+áo	N	B-ITEM
+dây	N	I-ITEM
+và	C	O
+quần	N	B-ITEM
+còn	R	O
+không	R	O
+em	N	O
+
+set	N	B-ITEM
+175k	N	I-ITEM
+hôm qua	N	O
+live	N	O
+còn	R	O
+không	R	O
+à	T	O
+?	CH	O
+
+còn	R	O
+mẫu	N	B-ITEM
+này	P	O
+live	V	O
+lúc	N	O
+chiều	N	O
+không	R	O
+
+áo	N	B-ITEM
+gấu	N	I-ITEM
+nay	P	O
+chị	Nc	O
+còn	R	O
+không	R	O
+chị	Nc	O
+?	CH	O
+
+cho	E	O
+mình	P	O
+xin	V	O
+giá	N	O
+2	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+với	E	O
+ạ	T	O
+
+còn	R	O
+đầm	N	B-ITEM
+165	M	I-ITEM
+không	R	O
+shop	Nc	O
+
+tối	N	O
+qua	V	O
+chị	Nc	O
+xem	V	O
+live	N	O
+đặt	V	O
+set	N	B-ITEM
+199k	N	I-ITEM
+này	P	O
+,	CH	O
+hơn	A	O
+mấy	L	O
+chục	M	O
+lần	N	O
+không	R	O
+thấy	V	O
+đọc	V	O
+tên	N	O
+chị	Nc	O
+buồn	V	O
+dễ sợ	V	O
+
+còn	R	O
+set	N	I-ITEM
+này	P	O
+không	R	O
+em	N	O
+bán	V	O
+cho	E	O
+chị	Nc	O
+nha	I	O
+
+em	N	O
+hoặc	C	O
+có	V	O
+ai	P	O
+bơm	V	O
+hàng	N	O
+trả	V	O
+về	E	O
+không	R	O
+,	CH	O
+bán	V	O
+cho	E	O
+chị	Nc	O
+đi	V	O
+,	CH	O
+chị	Nc	O
+thích	V	O
+mẫu	N	B-ITEM
+này	P	O
+lắm	R	O
+,	CH	O
+hôm kia	N	O
+live	A	O
+mà	C	O
+không	R	O
+mua	V	O
+được	R	O
+
+shop	Nc	O
+ơi	I	O
+,	CH	O
+tối qua	N	O
+chị	Nc	O
+đặc	V	O
+hàng	N	O
+bên	N	O
+em	N	O
+set	N	B-ITEM
+này	P	O
+189k	N	O
+nhắn tin	V	O
+nhiều	A	O
+lần	N	O
+vẫn	R	O
+không	R	O
+thấy	V	O
+đọc	V	O
+tên	N	O
+chị	Nc	O
+,	CH	O
+chắc	A	O
+chị	Nc	O
+lại	R	O
+bị	V	O
+ẩn	V	O
+comment	V	O
+rồi	R	O
+còn	R	O
+set	N	I-ITEM
+không	R	O
+em	N	O
+
+còn	R	O
+set	N	B-ITEM
+này	P	O
+không	R	O
+em	N	O
+,	CH	O
+tối qua	N	O
+chị	Nc	O
+có	V	O
+đặt	V	O
+như	C	O
+sáng	N	O
+này	P	O
+không	R	O
+có	V	O
+chốt	N	O
+cho	E	O
+chị	Nc	O
+
+còn	R	O
+set	N	B-ITEM
+này	P	O
+không	R	O
+em	N	O
+,	CH	O
+tối	N	O
+hôm	N	O
+chị	Nc	O
+có	V	O
+đặt	V	O
+như	C	O
+sáng	N	O
+này	P	O
+không	R	O
+có	V	O
+chốt	N	O
+cho	E	O
+chị	Nc	O
+
+túi	N	B-ITEM
+mini	N	O
+thì	C	O
+giá	N	O
+bao nhiêu	P	O
+á	P	O
+shop	Nc	O
+
+mã	N	B-ITEM
+49	M	I-ITEM
+,	CH	O
+giá	N	O
+165k	N	O
+này	P	O
+còn	R	O
+không	R	O
+em	N	O
+?	CH	O
+
+ơi	I	O
+hồi	N	O
+tối	N	O
+thấy	V	O
+live	V	O
+mẫu	N	B-ITEM
+đầu	N	O
+,	CH	O
+còn	C	O
+không	R	O
+chị	Nc	O
+
+mẫu	N	B-ITEM
+này	P	O
+chị	Nc	O
+chưa	R	O
+có	V	O
+đặt	V	O
+trên	E	O
+live	N	O
+nếu như	C	O
+còn	R	O
+thì	C	O
+em	N	O
+gửi	V	O
+chung	A	O
+với	E	O
+đơn	N	O
+chị	Nc	O
+đặt	V	O
+hôm qua	N	O
+nhé	T	O
+
+đầm	N	B-ITEM
+jumpsuit	N	I-ITEM
+này	P	O
+còn	R	O
+không	R	O
+ạ	I	O
+
+set	N	B-ITEM
+195	N	I-ITEM
+còn	R	O
+không	R	O
+dồn	V	O
+đơn	N	O
+cho	E	O
+chị	Nc	O
+luôn	R	O
+
+da215	N	B-ITEM
+và	C	O
+nau175	N	B-ITEM
+còn	R	O
+không	R	O
+shop	Nc	O
+
+nếu	C	O
+shop	N	O
+còn	R	O
+set	N	B-ITEM
+caro	N	I-ITEM
+thì	C	O
+ship	V	O
+luôn	R	O
+cho	E	O
+em	N	O
+2	M	O
+set	N	I-ITEM
+luôn	R	O
+nha	I	O
+
+mình	P	O
+thích	V	O
+mẫu	N	B-ITEM
+váy	N	I-ITEM
+hoa	N	I-ITEM
+tay dài	N	B-ITEM
+,	CH	O
+nhúng	N	B-ITEM
+như	C	O
+shop	N	O
+,	CH	O
+không	R	O
+biết	V	O
+còn	R	O
+hàng không	N	O
+ạ	T	O
+,	CH	O
+mong	V	O
+nhận	V	O
+phản hồi	N	O
+của	E	O
+shop	N	O
+,	CH	O
+mình	P	O
+cảm ơn	V	O
+
+bạn	N	O
+còn	R	O
+set	N	B-ITEM
+195k	N	I-ITEM
+này	P	O
+không	R	O
+bạn	N	O
+
+Chồng	N	O
+em	N	O
+mặc	V	O
+vừa	R	O
+y chang	V	O
+bên	N	O
+shop	N	O
+còn	R	O
+mẫu	N	B-ITEM
+đó	P	O
+không	R	O
+gửi	V	O
+lại	V	O
+cho	E	O
+em	N	O
+được	V	O
+không	R	O
+
+
+áo	N	B-ITEM
+bơ	N	I-ITEM
+còn	R	O
+không	R	O
+ạ	I	O
+
+chị	Nc	O
+ơi	I	O
+áo len	N	B-ITEM
+Dior	Np	B-ORG
+bên	N	O
+mình	P	O
+còn	R	O
+không	R	O
+vậy	T	O
+chị	Nc	O
+
+set	N	B-ITEM
+3	M	I-ITEM
+món	N	I-ITEM
+còn	R	O
+không	R	O
+em	N	O
+ơi	I	O
+
+chị	Nc	O
+ơi	I	O
+cho	E	O
+em	N	O
+xin	V	O
+giá	N	O
+3	M	O
+mẫu	Nu	B-ITEM
+này	P	O
+với	E	O
+ạ	T	O
+
+chị	Nc	O
+ơi	I	O
+bộ	N	B-ITEM
+này	P	O
+còn	R	O
+55	V	O
+không	R	O
+ạ	I	O
+
+set	N	B-ITEM
+sọc	N	I-ITEM
+còn	R	O
+không	R	O
+chị	Nc	O
+
+mẫu	N	B-ITEM
+đầm	N	I-ITEM
+hoa	N	I-ITEM
+còn	R	O
+không	R	O
+shop	Nc	O
+
+set	N	B-ITEM
+không	R	O
+bao nhiêu	P	O
+ạ	T	O
+
+shop	Nc	O
+ơi	I	O
+có	V	O
+mẫu	N	B-ITEM
+nào	P	O
+eo	V	O
+95	N	O
+không	R	O
+ạ	I	O
+
+áo	N	B-ITEM
+yếm	N	I-ITEM
+hoa	N	I-ITEM
+buộc	V	B-ITEM
+dây	N	I-ITEM
+
+áo	N	B-ITEM
+hai	M	I-ITEM
+dây	N	I-ITEM
+cúp ngực	V	B-ITEM
+
+váy	N	B-ITEM
+công chúa	N	I-ITEM
+
+váy	N	B-ITEM
+caro	N	I-ITEM
+
+áo sơ mi	N	B-ITEM
+
+áo sơ mi	N	B-ITEM
+tay	N	B-ITEM
+bèo	M	I-ITEM
+
+còn	R	O
+quần	V	B-ITEM
+119k	N	O
+không	R	O
+shop	Nc	O
+dồn	V	O
+đơn	N	O
+cho	V	O
+em	Nc	O
+
+còn	R	O
+set	N	B-ITEM
+tây	N	I-ITEM
+185k	N	O
+này	P	O
+không	R	O
+em	N	O
+ơi	I	O
+
+bên	N	O
+shop	N	O
+mình	P	O
+có	V	O
+chân váy	N	B-ITEM
+xếp li	V	I-ITEM
+không	R	O
+ạ	I	O
+
+còn	R	O
+set	N	B-ITEM
+179k	N	O
+không	R	O
+em	N	O
+
+còn	R	O
+bộ	Nc	B-ITEM
+set	N	I-ITEM
+những	L	O
+này	P	O
+không	R	O
+em	N	O
+
+lấy	V	O
+cho	E	O
+em	N	O
+đầm	N	B-ITEM
+xếp ly	V	B-ITEM
+ngực	N	I-ITEM
+
+chị	Nc	O
+lấy	V	O
+cho	E	O
+em	N	O
+đầm	N	B-ITEM
+caro	N	I-ITEM
+cúp ngực	N	B-ITEM
+
+shop	N	O
+còn	R	O
+đầm	N	B-ITEM
+cúp ngực	N	B-ITEM
+phối	V	O
+cổ sơ mi	N	B-ITEM
+ạ	T	O
+
+đầm	N	B-ITEM
+sơ mi	N	I-ITEM
+xòe	A	I-ITEM
+kèm	V	O
+quần	N	B-ITEM
+
+mình	P	O
+còn	R	O
+set	N	B-ITEM
+sơ mi	N	I-ITEM
+dài	A	I-ITEM
+buộc	V	O
+nơ	N	B-ITEM
+phía	N	O
+sau	N	O
+
+đầm	N	B-ITEM
+sơ mi	N	I-ITEM
+kèm	V	O
+quần	N	I-ITEM
+nhiêu	V	O
+vậy	P	O
+shop	Nc	O
+
+set	N	B-ITEM
+áo	N	I-ITEM
+cổ	N	B-ITEM
+chữ	N	I-ITEM
+V	Np	I-ITEM
+tay	N	B-ITEM
+phồng	N	I-ITEM
+nhiêu	A	O
+vậy	T	O
+shop	Nc	O
+
+đầm	N	B-ITEM
+sọc	N	I-ITEM
+kim tuyến	N	B-ITEM
+cổ	N	B-ITEM
+tròn	A	I-ITEM
+còn	R	O
+sale	V	O
+không	R	O
+
+đầm	N	B-ITEM
+ôm	N	I-ITEM
+cổ	N	B-ITEM
+tròn	A	I-ITEM
+còn	R	O
+sale	V	O
+không	R	O
+
+chân váy	N	B-ITEM
+xẻ tà	N	B-ITEM
+còn	R	O
+sale	V	O
+không	R	O
+
+quần	N	B-ITEM
+dài	A	I-ITEM
+ống	N	B-ITEM
+suông	M	I-ITEM
+
+áo	N	B-ITEM
+ca rô	N	I-ITEM
+trễ	V	B-ITEM
+vai	N	I-ITEM
+
+quần	N	B-ITEM
+Adidas	Np	B-ORG
+3	M	B-ITEM
+sọc	M	I-ITEM
+
+đồ ngủ	N	B-ITEM
+gấu	N	I-ITEM
+pooh	M	I-ITEM
+
+áo phông	N	B-ITEM
+in hình	N	I-ITEM
+
+áo vest	N	B-ITEM
+khoác	V	O
+ngoài	E	O
+
+áo khoác	N	B-ITEM
+kiểu	N	I-ITEM
+
+đầm	N	B-ITEM
+kiểu	N	I-ITEM
+
+đầm	N	B-ITEM
+ôm	V	I-ITEM
+sang trọng	A	O
+
+Set	Np	B-ITEM
+vest	N	I-ITEM
+kèm	V	O
+quần	N	I-ITEM
+giá	N	O
+280k	V	O
+giảm	V	O
+còn	R	O
+238k	M	O
+
+mẫu	N	B-ITEM
+này	P	O
+còn	R	O
+không	R	O
+ạ	I	O
+bao nhiêu	P	O
+vậy	T	O
+ạ	T	O
+
+set	N	B-ITEM
+xanh	A	B-COL
+này	P	O
+còn	R	O
+không	R	O
+shop	V	O
+chốt	V	O
+em	N	O
+với	E	O
+ạ	T	O
+
+xin	V	O
+giá	N	O
+bộ	Nc	B-ITEM
+màu	N	B-COL
+hồng	N	I-COL
+ạ	T	O
+
+đầm	N	B-ITEM
+rêu	N	B-COL
+còn	R	O
+không	R	O
+bạn	N	O
+
+còn	R	O
+cho	E	O
+chị	Nc	O
+mỗi	L	O
+màu	N	O
+2	M	O
+cái	Nc	O
+tổng cộng	N	O
+4	M	O
+cái	T	O
+nha	T	O
+
+em	N	O
+cho	E	O
+mình	P	O
+hỏi	V	O
+set	V	B-ITEM
+vest	N	I-ITEM
+đen	A	B-COL
+235k	A	O
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+hồng	N	B-COL
+còn	R	O
+không	R	O
+ạ	T	O
+
+shop	N	O
+còn	R	O
+mẫu	N	B-ITEM
+áo	N	I-ITEM
+đen	A	B-COL
+chân váy	V	B-ITEM
+kẻ	Nc	I-ITEM
+xanh	A	B-COL
+không	R	O
+ạ	T	O
+
+shop	N	O
+còn	R	O
+mẫu	N	B-ITEM
+áo	N	I-ITEM
+đen	A	B-COL
+chân váy	V	B-ITEM
+kẻ	Nc	I-ITEM
+,	CH	O
+mã	N	B-ITEM
+195	M	I-ITEM
+live	V	O
+hôm	N	O
+thứ	N	O
+7	M	O
+không	R	O
+ạ	T	O
+
+còn	R	O
+2	M	O
+mẫu	Nu	B-ITEM
+jean	N	B-MATERIAL
+này	P	O
+không	R	O
+shop	V	O
+?	CH	O
+
+mà	C	O
+chị	Nc	O
+quên	V	O
+nói	V	O
+nếu	C	O
+còn	R	O
+mẫu	N	B-ITEM
+đen	A	B-COL
+này	P	O
+còn	R	O
+set	V	B-ITEM
+nâu	A	B-COL
+thì	C	O
+gửi	V	O
+chung	A	O
+với	E	O
+2	M	O
+set	N	B-ITEM
+kia	P	O
+thì	C	O
+thôi	T	O
+
+shop	N	O
+ơi	I	O
+đầm	N	B-ITEM
+hoa	N	I-ITEM
+215k	N	O
+còn	R	O
+không	R	O
+lấy	V	O
+mình	P	O
+một	M	O
+cái	Nc	O
+khách	N	O
+cũ	A	O
+
+có	V	O
+áo vest	N	B-ITEM
+ngoài	E	O
+
+em	N	O
+có	V	O
+đặt	V	O
+mã	V	B-ITEM
+túi	N	I-ITEM
+Channel	Np	B-ORG
+
+set	N	B-ITEM
+trắng	A	B-COL
+đính	N	O
+3	M	O
+nút	N	O
+đen shop	N	O
+còn	R	O
+
+set	N	B-ITEM
+da	N	B-MATERIAL
+S	Np	B-SIZE
+vừa	R	O
+không	R	O
+Hằng	Np	B-PER
+
+đầm	N	B-ITEM
+tay	N	B-ITEM
+nhúng	V	I-ITEM
+màu	N	B-COL
+đen	A	I-COL
+hồi	N	O
+sáng	N	O
+
+chân váy	N	B-ITEM
+đen	A	B-COL
+này	P	O
+mình	P	O
+còn	R	O
+không	R	O
+shop	V	O
+ơi	I	O
+alo	N	O
+áo khoác	V	B-ITEM
+da	N	B-MATERIAL
+Quãng Châu	Np	B-LOC
+còn	R	O
+không	R	O
+em	N	O
+
+đầm	N	B-ITEM
+đen	A	B-COL
+kim tuyến	N	I-COL
+xẻ	V	B-ITEM
+tà	N	I-ITEM
+giá	N	O
+bao nhiêu	P	O
+
+set	N	B-ITEM
+caro	N	I-ITEM
+đỏ đen	A	B-COL
+tay	N	B-ITEM
+phồng	V	I-ITEM
+giá	N	O
+bao nhiêu	P	O
+
+set	N	B-ITEM
+áo	N	I-ITEM
+trắng	A	I-ITEM
+kèm	V	O
+quần	N	B-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+giá	N	O
+280k	M	O
+
+set	N	B-ITEM
+xanh	A	B-COL
+này	P	O
+còn	R	O
+chốt	V	O
+em	N	O
+với	E	O
+ạ	T	O
+
+áo khoác	N	B-ITEM
+len	N	B-MATERIAL
+đang	R	O
+mặc	V	O
+còn	R	O
+không	R	O
+
+set	N	B-ITEM
+trắng	A	B-COL
+cổ	A	B-ITEM
+chữ	N	I-ITEM
+V	Np	I-ITEM
+vạt	V	B-ITEM
+xòe	N	I-ITEM
+còn	R	O
+S	Np	B-SIZE
+
+đầm	N	B-ITEM
+sơ mi	N	I-ITEM
+chỉ	R	O
+còn	V	O
+M	Np	B-SIZE
+thôi	T	O
+chị	Nc	O
+
+còn	R	O
+áo	N	B-ITEM
+này	P	O
+nhưng	C	O
+chấm bi	N	B-ITEM
+đen	A	O
+không	R	O
+nàng	N	O
+ơi	T	O
+
+đầm	N	B-ITEM
+nude	N	B-COL
+dập	V	B-MATERIAL
+li	M	I-MATERIAL
+
+chị	Nc	O
+cho	V	O
+em	N	O
+xin	V	O
+cân	V	O
+nặng	A	O
+chiều cao	V	O
+em	N	O
+tư vấn	V	O
+size	N	B-SIZE
+chị	Nc	O
+nhé	T	O
+!	CH	O
+
+còn	R	O
+thì	C	O
+lấy	V	O
+cho	E	O
+chị	Nc	O
+nha	V	O
+size	N	B-SIZE
+S	Np	I-SIZE
+.	CH	O
+
+dạ	N	O
+em	N	O
+chưa	R	O
+có	V	O
+đơn	N	O
+trên	E	O
+live	N	O
+nếu	C	O
+còn	R	O
+lấy	V	O
+em	N	O
+size	N	B-SIZE
+L	Ny	I-SIZE
+.	CH	O
+
+nếu	C	O
+còn	V	O
+cho	E	O
+chị	Nc	O
+đặt	V	O
+1	M	O
+cái	T	O
+nhé	T	O
+.	CH	O
+chị	Nc	O
+nặng	A	O
+48	M	O
+kg	Nu	O
+.	CH	O
+Em	N	O
+chọn	V	O
+size	N	B-SIZE
+giúp	V	O
+chị	Nc	O
+nhé	T	O
+
+em	N	O
+đặt	V	O
+1	M	O
+set	N	B-ITEM
+size	N	B-SIZE
+32	M	I-SIZE
+
+Còn	C	O
+size	N	B-SIZE
+cho	E	O
+người	N	O
+43kg	V	O
+không	R	O
+ạ	T	O
+
+còn	R	O
+cho	E	O
+mình	P	O
+sóc	V	O
+xanh	A	B-COL
+và	C	O
+sóc	V	O
+cam	N	O
+nha	M	O
+
+hoa	N	I-ITEM
+vàng	N	B-COL
+185k	A	O
+còn	R	O
+không	R	O
+
+còn	R	O
+không	R	O
+để	V	O
+chị	Nc	O
+cái	Nc	O
+màu	N	B-COL
+xanh	A	B-COL
+này	P	O
+
+cho	E	O
+mình	P	O
+xin	V	O
+hình	N	O
+màu	N	B-COL
+nâu	A	I-COL
+với	E	O
+ạ	T	O
+
+cho	E	O
+mình	P	O
+xin	V	O
+hình	N	O
+cam	A	B-COL
+với	E	O
+ạ	T	O
+
+chân váy	N	B-ITEM
+nâu	A	B-COL
+còn	R	O
+không	R	O
+chị	Nc	O
+
+Hồng	Np	B-PER
+Gấm	Np	I-PER
+đã	R	O
+trả lời	V	O
+một	M	O
+quảng cáo	N	O
+.	CH	O
+
+ship	N	O
+Huế	Np	B-LOC
+bao nhiêu	P	O
+chị	Nc	O
+
+614/8	N	O
+khu phố	N	B-LOC
+7	M	I-LOC
+,	CH	O
+Lê Hồng Phong	Np	B-LOC
+,	CH	O
+Phú Hòa	Np	B-LOC
+,	CH	O
+Thủ Dầu Một	Np	B-LOC
+,	CH	O
+Bình Dương	Np	B-LOC
+
+địa chỉ	N	O
+260	N	B-LOC
+Trần Hưng Đạo	Np	I-LOC
+,	CH	O
+phường	N	B-LOC
+4	M	I-LOC
+,	CH	O
+thành phố	N	B-LOC
+Mỹ Tho	Np	I-LOC
+giá	N	O
+giống	A	O
+trên	E	O
+live	N	O
+phải	A	O
+không	R	O
+em	N	O
+?	CH	O
+
+nếu	C	O
+còn	R	O
+gởi	V	O
+được	V	O
+3b/4	N	O
+Trần Hưng Đạo	Np	B-LOC
+,	CH	O
+thành phố	N	B-LOC
+Đà Lạt	Np	I-LOC
+
+áo len	N	B-ITEM
+cao	A	I-ITEM
+cổ	N	B-ITEM
+nhiều	A	O
+màu	N	B-COL
+
+ship	N	O
+em	N	O
+1	M	O
+quần jean	N	B-ITEM
+ống loe	N	I-ITEM
+
+quần	N	B-ITEM
+kaki	V	B-MATERIAL
+ống	N	B-ITEM
+suông	A	I-ITEM
+
+áo	N	B-ITEM
+len	N	B-MATERIAL
+dệt kim	N	I-MATERIAL
+cao	A	O
+cổ	N	O
+nhiều	A	B-COL
+màu	N	I-COL
+
+quần	N	B-ITEM
+baggy	V	I-ITEM
+ống	N	B-ITEM
+thụng	A	I-ITEM
+hai	M	O
+màu	N	B-COL
+xanh	A	I-COL
+,	CH	O
+đen	A	I-COL
+
+chân váy	N	B-ITEM
+chấm bi	N	I-ITEM
+đen	A	B-COL
+là	V	O
+vải	N	B-MATERIAL
+gì	P	O
+
+quần jean	N	B-ITEM
+ngắn	A	O
+size	N	B-SIZE
+29	M	I-SIZE
+
+set	N	B-ITEM
+jumpsuit	N	I-ITEM
+xám	A	B-COL
+
+đơn	N	O
+của	E	O
+em	N	O
+là	V	O
+:	CH	O
+1	M	O
+đầm	N	B-ITEM
+khoét	V	B-ITEM
+lưng	N	I-ITEM
+màu	N	B-COL
+đen	A	I-COL
+L	Ny	B-SIZE
+280k	M	O
+
+1	M	O
+set	N	B-ITEM
+nơ	N	I-ITEM
+size	N	B-SIZE
+M	Np	I-SIZE
+hết	V	O
+bao nhiêu	P	O
+
+lấy	V	O
+em	N	O
+áo	N	B-ITEM
+hoodie	N	I-ITEM
+thụng	M	I-ITEM
+
+2	M	O
+váy	N	B-ITEM
+cúp ngực	V	B-ITEM
+màu	N	B-COL
+tro	N	I-COL
+hết	V	O
+nhiêu	N	O
+tiền	N	O
+
+set	N	B-ITEM
+thể thao	N	I-ITEM
+xanh	A	B-COL
+biển	N	I-COL
+size	N	B-SIZE
+S	Np	I-SIZE
+còn	R	O
+không	R	O
+
+shop	N	O
+lấy	V	O
+em	N	O
+1	M	O
+áo	N	B-ITEM
+sweater	N	I-ITEM
+màu	N	B-COL
+đỏ	A	I-COL
+đỏ	A	I-COL
+
+đầm	N	B-ITEM
+hoodie	N	I-ITEM
+trắng	A	B-COL
+còn	R	O
+bán	V	O
+không	R	O
+shop	Nc	O
+
+đầm	N	B-ITEM
+babydoll	N	I-ITEM
+trắng	A	B-COL
+xếp ly	V	B-ITEM
+hết	V	O
+hàng	N	O
+rồi	C	O
+chị	Nc	O
+ơi	I	O
+
+áo	N	B-ITEM
+croptop	V	I-ITEM
+tay	N	B-ITEM
+bèo	N	I-ITEM
+còn	R	O
+size	V	B-SIZE
+gì	T	O
+ạ	T	O
